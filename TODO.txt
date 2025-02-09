@@ -1,0 +1,4 @@
+- Mudar "Fidalgo Blindado" para "Cavaleiro Armado" (possivelmente abreviado)
+- Fazer revisão textual pós-reforma ortográfica de 2010 (remover tremas por exemplo)
+- Cogitar mudar "Mestre Lúcio" para "Mestre da Estaca" (se o Neko não chorar kkk)
+- Tornar a tradução compatível com hacks de aprimoramento, como o "Recolor" e o "Revenge of the Findesiecle"
