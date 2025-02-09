@@ -35,34 +35,34 @@ str_010: ;diálogo 10
   .stringn "*---"
 
 str_011: ;diálogo 11
-  .stringn "*Cinqüenta anos se passaram desde", 0x06, 0xF0
+  .stringn "*Cinquenta anos se passaram desde", 0x06, 0xF0
   .stringn "que Simon <Belmont> triunfou sobre", 0x06, 0xF0
   .stringn "a maldição de Drácula.", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "O destino decretou que <Juste>", 0x06, 0xF0
-  .stringn "<Belmont>, descendente de sangue ", 0x06, 0xF0
+  .stringn "<Belmont>, descendente de sangue", 0x06, 0xF0
   .stringn "da Família <Belmont>, buscaria", 0x06, 0xF0
   .stringn "as relíquias de Drácula.", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
-  .stringn "Um dia, o melhor amigo de <Juste>, ", 0x06, 0xF0
+  .stringn "Um dia, o melhor amigo de <Juste>,", 0x06, 0xF0
   .stringn "<Maxim>, que havia partido em uma", 0x06, 0xF0
-  .stringn "jornada de treinamento dois anos ", 0x06, 0xF0
+  .stringn "jornada de treinamento dois anos", 0x06, 0xF0
   .stringn "mais cedo, retornou inesperadamente...", 0x06, 0xF0
-  .stringn "com seu corpo coberto de feridas. ", 0x06, 0xF0
+  .stringn "com seu corpo coberto de feridas.", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Ele informa a <Juste> que <Lydie>,", 0x06, 0xF0
   .stringn "uma amiga de infância com a qual ambos", 0x06, 0xF0
   .stringn "se importavam bastante, havia sido", 0x06, 0xF0
-  .stringn "seqüestrada.", 0x06, 0xF0
+  .stringn "sequestrada.", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "<Maxim> havia perdido completamente", 0x06, 0xF0
-  .stringn "as lembranças de seu tempo de ", 0x06, 0xF0
+  .stringn "as lembranças de seu tempo de", 0x06, 0xF0
   .stringn "treinamento longe de casa, e tem", 0x06, 0xF0
-  .stringn "apenas vagos vislumbres do seqüestro.", 0x06, 0xF0
+  .stringn "apenas vagos vislumbres do sequestro.", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Ignorando suas feridas corpóreas,", 0x06, 0xF0
@@ -72,14 +72,14 @@ str_011: ;diálogo 11
 
   .stringn "Passando por uma névoa densa, os dois", 0x06, 0xF0
   .stringn "encontram-se diante de um castelo", 0x06, 0xF0
-  .stringn "não documentado em mapa algum.        ", 0x06, 0xF0
-  .stringn "Poderia esse ser o fabuloso ", 0x06, 0xF0
-  .stringn "castelo do Drácula?  ", 0x06, 0xF0
+  .stringn "não documentado em mapa algum.", 0x06, 0xF0
+  .stringn "Poderia esse ser o fabuloso", 0x06, 0xF0
+  .stringn "castelo do Drácula?", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
-  .stringn "Permanecendo solenemente na noite, ", 0x06, 0xF0
-  .stringn "esse castelo medonho dá boas-vindas ", 0x06, 0xF0
-  .stringn "às suas inesperadas visitas à medida ", 0x06, 0xF0
+  .stringn "Permanecendo solenemente na noite,", 0x06, 0xF0
+  .stringn "esse castelo medonho dá boas-vindas", 0x06, 0xF0
+  .stringn "às suas inesperadas visitas à medida", 0x06, 0xF0
   .stringn "que o luar brilha sobre o mesmo...", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
@@ -88,811 +88,605 @@ str_011: ;diálogo 11
 str_012: ;diálogo 12
   .stringn "*<TAG_06><TAG_07>Então <Lydie> foi mesmo", 0x06, 0xF0
   .stringn "trazida para este castelo?", 0x06, 0xF0
-  .stringn "           ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
-  .stringn "<TAG_01><TAG_08><TAG_09>Não me lembro claramente,    ", 0x06, 0xF0
-  .stringn "mas deve ser aqui sim.       ", 0x06, 0xF0
-  .stringn "Não acredita em mim?     ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
-  .stringn "<TAG_01><TAG_06><TAG_07>Sei muito bem que você   ", 0x06, 0xF0
+  .stringn "<TAG_01><TAG_08><TAG_09>Não me lembro claramente,", 0x06, 0xF0
+  .stringn "mas deve ser aqui sim.", 0x06, 0xF0
+  .stringn "Não acredita em mim?", 0x06, 0xF0
+  .stringn "<TAG_01><TAG_06><TAG_07>Sei muito bem que você", 0x06, 0xF0
   .stringn "não é alguém que costuma", 0x06, 0xF0
   .stringn "mentir.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09><Juste>...", 0x06, 0xF0
   .stringn "<TAG_02>Aaargh!!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Você está bem?!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
-  .stringn "<TAG_01><TAG_08><TAG_09>E-Estou bem. Não se preocupe", 0x06, 0xF0
+  .stringn "<TAG_01><TAG_08><TAG_09>E-estou bem. Não se preocupe", 0x06, 0xF0
   .stringn "comigo. Estamos aqui para", 0x06, 0xF0
   .stringn "encontrar <Lydie>...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Siga em frente!!", 0x06, 0xF0
-  .stringn "Seguirei você em breve.   ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "Seguirei você em breve.", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Certo, então.", 0x06, 0xF0
   .stringn "Nos veremos novamente", 0x06, 0xF0
   .stringn "dentro do castelo!!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_013: ;diálogo 13
   .stringn "*<TAG_03><TAG_04>Não se mova!", 0x06, 0xF0
   .stringn "A cor da sua alma...", 0x06, 0xF0
   .stringn "Você é um <Belmont>, então?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
-  .stringn "<TAG_01><TAG_06><TAG_07>Isso mesmo. Essa...   ", 0x06, 0xF0
+  .stringn "<TAG_01><TAG_06><TAG_07>Isso mesmo. Essa...", 0x06, 0xF0
   .stringn "presença esmagadora...", 0x06, 0xF0
   .stringn "<Morte>...?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_03><TAG_04>É claro.", 0x06, 0xF0
   .stringn "<TAG_05>", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Então como eu pensei,", 0x06, 0xF0
   .stringn "esse é o castelo do", 0x06, 0xF0
   .stringn "Drácula.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_03><TAG_05>Talvez...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "No entanto, a energia presente", 0x06, 0xF0
   .stringn "aqui não é necessariamente", 0x06, 0xF0
-  .stringn "a de milorde Drácula.  ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "a de milorde Drácula.", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>O que você quer dizer", 0x06, 0xF0
   .stringn "com isso?!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
-  .stringn "<TAG_01><TAG_03><TAG_05>Por hora vou deixá-lo.   ", 0x06, 0xF0
+  .stringn "<TAG_01><TAG_03><TAG_05>Por ora vou deixá-lo.", 0x06, 0xF0
   .stringn "Mas nos encontraremos", 0x06, 0xF0
   .stringn "novamente, <Belmont>!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
-  .stringn "<TAG_01><TAG_02><TAG_10><TAG_06><TAG_07>Ela fugiu...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "<TAG_01><TAG_02><TAG_10><TAG_06><TAG_07>Fugiu...", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_014: ;diálogo 14
   .stringn "*<TAG_06><TAG_07><Maxim>, você está bem!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09><TAG_02>Sim... É você, <Juste>?", 0x06, 0xF0
   .stringn "Sim. Acho que estou bem.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>O que há de errado?", 0x06, 0xF0
   .stringn "Você não parece estar", 0x06, 0xF0
   .stringn "se sentindo bem.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09><TAG_02>Eu...", 0x06, 0xF0
   .stringn "Não sei como", 0x06, 0xF0
-  .stringn "cheguei ao castelo.   ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "cheguei ao castelo.", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_06><TAG_07>O quê?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_08><TAG_09>Bem, não tenho certeza...", 0x06, 0xF0
   .stringn "As coisas ainda estão", 0x06, 0xF0
   .stringn "obscuras...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Mas minhas memórias parecem", 0x06, 0xF0
   .stringn "estar voltando, pouco a pouco.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Suas memórias estão retornando?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Bem, parece que sim. Desde que", 0x06, 0xF0
   .stringn "vim para esse castelo, tive", 0x06, 0xF0
   .stringn "umas sensações estranhas.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Se me aprofundar mais no", 0x06, 0xF0
   .stringn "castelo, talvez eu seja", 0x06, 0xF0
   .stringn "capaz de me lembrar.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_06><TAG_07>Vamos continuar juntos, <Maxim>.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Não... Se quisermos encontrar", 0x06, 0xF0
-  .stringn "<Lydie>, é melhor se estivermos ", 0x06, 0xF0
+  .stringn "<Lydie>, é melhor se estivermos", 0x06, 0xF0
   .stringn "separados.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_06><TAG_07>Oh...", 0x06, 0xF0
   .stringn "É. Acho que você tem razão.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
-  .stringn "<TAG_01><TAG_08><TAG_09>Continue vivo, <Juste>. ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "<TAG_01><TAG_08><TAG_09>Continue vivo, <Juste>.", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_06><TAG_07>Você também, <Maxim>...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02>"
 
 str_015: ;diálogo 15
   .stringn "*<TAG_11><TAG_09><Juste>!", 0x06, 0xF0
-  .stringn "Estava te procurando!         ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "Estava te procurando!", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07><Maxim>, o que está havendo?", 0x06, 0xF0
-  .stringn "Encontrou <Lydie>?     ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "Encontrou <Lydie>?", 0x06, 0xF0
   .stringn "<TAG_01><TAG_11><TAG_09>Se a encontrei... Você também", 0x06, 0xF0
   .stringn "está escondendo coisas,", 0x06, 0xF0
   .stringn "não está?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Mas do que diabos você", 0x06, 0xF0
   .stringn "está falando?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_11><TAG_09>Bem, não importa...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Não sei a extensão dos", 0x06, 0xF0
   .stringn "seus poderes, <Belmont>.", 0x06, 0xF0
-  .stringn "Mas não deixarei que a tenha!    ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "Mas não deixarei que a tenha!", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Qual o problema com você?", 0x06, 0xF0
   .stringn "Está parecendo ser outra", 0x06, 0xF0
   .stringn "pessoa!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_11><TAG_09>Ganhei um novo poder para", 0x06, 0xF0
-  .stringn "ultrapassá-lo. Mas, por hora,  ", 0x06, 0xF0
+  .stringn "ultrapassá-lo. Mas, por ora,", 0x06, 0xF0
   .stringn "<Lydie> é meu interesse.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Adeus!", 0x06, 0xF0
   .stringn "Que você apodreça", 0x06, 0xF0
   .stringn "nesse castelo!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_06><TAG_07>Espere, <Maxim>!", 0x06, 0xF0
   .stringn "<TAG_10>", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Aquele era mesmo o <Maxim>?", 0x06, 0xF0
-  .stringn "Não posso acreditar...      ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "Não posso acreditar...", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_016: ;diálogo 16
   .stringn "*<TAG_08><TAG_09><Juste>, encontrou", 0x06, 0xF0
-  .stringn "a <Lydie>?     ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
-  .stringn "<TAG_01><TAG_06><TAG_07>Você é o <Maxim> verdadeiro, né?  ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "a <Lydie>?", 0x06, 0xF0
+  .stringn "<TAG_01><TAG_06><TAG_07>Você é o <Maxim> verdadeiro, né?", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Opa! Opa!", 0x06, 0xF0
   .stringn "Do que você está falando?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Ahh, esquece...", 0x06, 0xF0
-  .stringn "Mas e você?    ", 0x06, 0xF0
-  .stringn "Como vai sua busca?    ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
-  .stringn "<TAG_01><TAG_08><TAG_09>Também não progredi muito...    ", 0x06, 0xF0
+  .stringn "Mas e você?", 0x06, 0xF0
+  .stringn "Como vai sua busca?", 0x06, 0xF0
+  .stringn "<TAG_01><TAG_08><TAG_09>Também não progredi muito...", 0x06, 0xF0
   .stringn "mas minha memória está voltando", 0x06, 0xF0
-  .stringn "pouco a pouco.       ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "pouco a pouco.", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_06><TAG_07>Sério? Então <Lydie> está mesmo", 0x06, 0xF0
   .stringn "neste castelo?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Sem dúvida. E além disso,", 0x06, 0xF0
   .stringn "lembrei que já estive", 0x06, 0xF0
   .stringn "aqui antes...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Acho que devo contá-lo...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Diga qualquer coisa.", 0x06, 0xF0
-  .stringn "No que está pensando? ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "No que está pensando?", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Naquele dia, quando você", 0x06, 0xF0
   .stringn "se tornou um caçador", 0x06, 0xF0
   .stringn "de vampiros...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Percebi que você havia se", 0x06, 0xF0
   .stringn "tornado muito mais forte que eu.", 0x06, 0xF0
-  .stringn "Por isso saí em minha jornada. ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "Por isso saí em minha jornada.", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Eu queria ficar mais forte", 0x06, 0xF0
-  .stringn "que você.     ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "que você.", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "E também queria libertá-lo", 0x06, 0xF0
   .stringn "de seu destino como um", 0x06, 0xF0
   .stringn "caçador.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Você se lembra da história", 0x06, 0xF0
-  .stringn "que me contou uma vez...      ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "que me contou uma vez...", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Sobre as relíquias,", 0x06, 0xF0
   .stringn "os pedaços de Drácula?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Sim. Me recordo.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Meu avô, Simon, reuniu e", 0x06, 0xF0
   .stringn "destruiu as relíquias para", 0x06, 0xF0
   .stringn "desfazer a maldição de Drácula.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Achei que se eu pudesse reunir", 0x06, 0xF0
   .stringn "e destruir esses pedaços de", 0x06, 0xF0
   .stringn "Drácula por contra própria...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Meu desejo seria realizado.", 0x06, 0xF0
-  .stringn "         ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_017: ;diálogo 17
   .stringn "*<TAG_06><TAG_07>Está me dizendo que", 0x06, 0xF0
   .stringn "as relíquias de Drácula", 0x06, 0xF0
   .stringn "ainda existem?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>De acordo com a lenda, ainda", 0x06, 0xF0
   .stringn "é cedo demais para acontecer", 0x06, 0xF0
   .stringn "a ressureição de Drácula.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
-  .stringn "E tampouco é como se alguém ", 0x06, 0xF0
+  .stringn "E tampouco é como se alguém", 0x06, 0xF0
   .stringn "fosse amaldiçoado agora.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "A princípio, eu também duvidei", 0x06, 0xF0
   .stringn "da existência das relíquias...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Mas seguindo a lenda, de alguma", 0x06, 0xF0
   .stringn "forma eu encontrei os seis", 0x06, 0xF0
   .stringn "pedaços.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Não pode ser!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Eu não consigo me recordar de", 0x06, 0xF0
   .stringn "nada depois disso... Os pedaços", 0x06, 0xF0
   .stringn "também desapareceram...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "A única coisa que me lembro", 0x06, 0xF0
   .stringn "claramente é <Lydie> sendo", 0x06, 0xF0
   .stringn "levada até aqui...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Se isso for verdade, os pedaços", 0x06, 0xF0
   .stringn "provavelmente foram trazidos", 0x06, 0xF0
   .stringn "para esse castelo também.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_018: ;diálogo 18
   .stringn "*<TAG_06><TAG_07>Entendo. Então as relíquias", 0x06, 0xF0
   .stringn "encontradas nesse castelo", 0x06, 0xF0
   .stringn "são genuínas...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
-  .stringn "<TAG_01><TAG_08><TAG_09>Elas são idênticas as que ", 0x06, 0xF0
+  .stringn "<TAG_01><TAG_08><TAG_09>Elas são idênticas as que", 0x06, 0xF0
   .stringn "eu encontrei.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Mas tenho pouquíssimas", 0x06, 0xF0
   .stringn "lembranças do que aconteceu", 0x06, 0xF0
-  .stringn "depois de tê-las encontrado.     ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "depois de tê-las encontrado.", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Lembro-me apenas da <Lydie>", 0x06, 0xF0
   .stringn "sendo trazida aqui.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Se isso for verdade, os pedaços", 0x06, 0xF0
   .stringn "provavelmente foram trazidos", 0x06, 0xF0
   .stringn "para esse castelo também.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_019: ;diálogo 19
   .stringn "*<TAG_08><TAG_09>Sinto muito.", 0x06, 0xF0
   .stringn "Sou o culpado", 0x06, 0xF0
-  .stringn "por tudo isso.   ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "por tudo isso.", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Você não deveria pedir", 0x06, 0xF0
   .stringn "desculpas para mim.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Você deve pedir desculpas", 0x06, 0xF0
   .stringn "à <Lydie>.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Mas temos que continuar", 0x06, 0xF0
   .stringn "procurando se você for", 0x06, 0xF0
   .stringn "fazer isso...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Ah. É verdade.", 0x06, 0xF0
   .stringn "Certo. Vou indo.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07><Maxim>...", 0x06, 0xF0
   .stringn "Estou confiando em você.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Obrigado... <Juste>.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_020: ;diálogo 20
   .stringn "*<TAG_06><TAG_07>Ah! É você!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_03><TAG_05>Você conhece um homem", 0x06, 0xF0
   .stringn "chamado... “<Maxim>”?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_06><TAG_07>E se eu conhecer?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_03><TAG_05>Esse homem... Ele obteve algo", 0x06, 0xF0
   .stringn "que contém o poder de Lorde", 0x06, 0xF0
   .stringn "Drácula, não obteve?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_06><TAG_07>Poderia ser algo ligado", 0x06, 0xF0
   .stringn "às relíquias de Drácula?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_03><TAG_05>Relíquias? Entendo.", 0x06, 0xF0
   .stringn "Tudo se encaixa agora.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>O que quer dizer?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_03><TAG_05>Sim. Isso explica tudo.", 0x06, 0xF0
   .stringn "Você tem a minha gratidão.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "É simples. Foi graças a ele", 0x06, 0xF0
   .stringn "que este castelo surgiu.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_06><TAG_07>O quê?!", 0x06, 0xF0
-  .stringn "O <Maxim> nunca faria tal coisa!      ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "O <Maxim> nunca faria tal coisa!", 0x06, 0xF0
   .stringn "<TAG_01><TAG_03><TAG_05>Talvez não a princípio.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Mas, se ele obteve as relíquias", 0x06, 0xF0
   .stringn "de Lorde Drácula, então", 0x06, 0xF0
   .stringn "a história é diferente.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Dois espíritos receberam o poder", 0x06, 0xF0
   .stringn "de Drácula, e trouxeram esse", 0x06, 0xF0
   .stringn "castelo à existência novamente.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Dois espíritos?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_03><TAG_05>No momento dois espíritos", 0x06, 0xF0
   .stringn "residem dentro de Maxim.", 0x06, 0xF0
   .stringn "Um deles é sua própria alma...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "O outro é o espírito malígno", 0x06, 0xF0
-  .stringn "de milorde Drácula, que ", 0x06, 0xF0
-  .stringn "veio das relíquias. ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "de milorde Drácula, que", 0x06, 0xF0
+  .stringn "veio das relíquias.", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Isso é ridículo.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
-  .stringn "<TAG_01><TAG_03><TAG_05>Mas ainda não sei por que ", 0x06, 0xF0
+  .stringn "<TAG_01><TAG_03><TAG_05>Mas ainda não sei por que", 0x06, 0xF0
   .stringn "dois castelos se materializaram...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "O espírito de Drácula por si só", 0x06, 0xF0
   .stringn "deveria ter trazido o castelo", 0x06, 0xF0
   .stringn "de volta à tona, mas...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Espere!", 0x06, 0xF0
   .stringn "O que você quer dizer com", 0x06, 0xF0
   .stringn "“dois castelos”?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_03><TAG_05>Como você é tolo...", 0x06, 0xF0
   .stringn "Ainda não percebeu", 0x06, 0xF0
   .stringn "que há dois castelos?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Bem, então não tenho", 0x06, 0xF0
   .stringn "mais nada a dizer.", 0x06, 0xF0
   .stringn "Adeus!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
-  .stringn "<TAG_01><TAG_02><TAG_10><TAG_06><TAG_07>Espere!   ", 0x06, 0xF0
-  .stringn "Vai fugir de novo?  ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "<TAG_01><TAG_02><TAG_10><TAG_06><TAG_07>Espere!", 0x06, 0xF0
+  .stringn "Vai fugir de novo?", 0x06, 0xF0
   .stringn "<TAG_01><TAG_03><TAG_05>No momento, o castelo está", 0x06, 0xF0
   .stringn "dividido e incompleto.", 0x06, 0xF0
   .stringn "Isso não é adequado.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
-  .stringn "Os dois castelos devem   ", 0x06, 0xF0
-  .stringn "se unir por completo.   ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "Os dois castelos devem", 0x06, 0xF0
+  .stringn "se unir por completo.", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_021: ;diálogo 21
   .stringn "*<TAG_11><TAG_09>Oh? Você ainda está vivo,", 0x06, 0xF0
   .stringn "não é?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07><Maxim>!", 0x06, 0xF0
   .stringn "Não. Não é ele...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_11><TAG_09>Oh, parece que você me", 0x06, 0xF0
   .stringn "descobriu, então?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Quem diabos é você?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_11><TAG_09>Eu sou “eu mesmo”. Entretanto,", 0x06, 0xF0
   .stringn "eu não sou o mesmo Maxim", 0x06, 0xF0
   .stringn "que você conhece.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Eu sou os desejos que foram", 0x06, 0xF0
   .stringn "uma vez suprimidos nesse homem.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Desde quando ele obteve as", 0x06, 0xF0
   .stringn "relíquias de Drácula, outro", 0x06, 0xF0
   .stringn "espírito formou-se dentro dele.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Eu sou esse outro.", 0x06, 0xF0
   .stringn "Acho que ele não está nem", 0x06, 0xF0
   .stringn "a par da minha existência.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
-  .stringn "<TAG_01><TAG_06><TAG_07>Então o seqüestro de <Lydie>", 0x06, 0xF0
+  .stringn "<TAG_01><TAG_06><TAG_07>Então o sequestro de <Lydie>", 0x06, 0xF0
   .stringn "foi obra sua, não foi?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_11><TAG_09>Ré ré ré...", 0x06, 0xF0
   .stringn "Obviamente...", 0x06, 0xF0
   .stringn "É claro que foi obra minha.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "<TAG_02>Mas o idiota perdeu suas", 0x06, 0xF0
   .stringn "memórias. Ele nem mesmo sabe", 0x06, 0xF0
   .stringn "onde está agora!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "As memórias em breve reviverão.", 0x06, 0xF0
   .stringn "Se viermos a compartilhá-las,", 0x06, 0xF0
   .stringn "a mulher será minha.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Seu maldito!", 0x06, 0xF0
   .stringn "<TAG_02>", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_11><TAG_09>Se eu perecer, seu querido", 0x06, 0xF0
   .stringn "amigo morrerá junto comigo.", 0x06, 0xF0
   .stringn "Não tem problema para você?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Droga!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_11><TAG_09>Você irá morrer aqui,", 0x06, 0xF0
   .stringn "escória!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+
   .stringn "<TAG_01>"
 
 str_022: ;diálogo 22
   .stringn "*<TAG_08><TAG_09>J-<Juste>...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07><Maxim>!!", 0x06, 0xF0
   .stringn "Realmente é você", 0x06, 0xF0
   .stringn "dessa vez?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>...", 0x06, 0xF0
   .stringn "O outro... Então você", 0x06, 0xF0
   .stringn "se encontrou com ele...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>É...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Oh... O poder do Drácula", 0x06, 0xF0
   .stringn "é gigantesco...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
-  .stringn "Em breve ele irá me ", 0x06, 0xF0
+  .stringn "Em breve ele irá me", 0x06, 0xF0
   .stringn "absorver completamente.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Não fale assim!", 0x06, 0xF0
   .stringn "Mantenha-se firme", 0x06, 0xF0
   .stringn "em si próprio!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Por favor, me ouça...", 0x06, 0xF0
   .stringn "Quando ele trouxe", 0x06, 0xF0
   .stringn "<Lydie> aqui...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Ele escondeu ela nesse castelo,", 0x06, 0xF0
   .stringn "que foi invocado pelo meu", 0x06, 0xF0
   .stringn "espírito.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Eu queria fazer algo para", 0x06, 0xF0
   .stringn "proteger minhas próprias", 0x06, 0xF0
   .stringn "memórias, mas não adianta...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Leve esse bracelete.", 0x06, 0xF0
   .stringn "Com isso, você será capaz", 0x06, 0xF0
   .stringn "de abrir as portas seladas.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_06><TAG_07>Eu não posso deixá-lo aqui", 0x06, 0xF0
   .stringn "assim.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Por favor! Não podemos", 0x06, 0xF0
   .stringn "deixá-lo pegar a <Lydie>!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
-  .stringn "<TAG_01><TAG_06><TAG_07>C-Certo. Quando eu tiver ", 0x06, 0xF0
-  .stringn "salvado a <Lydie>, prometo ", 0x06, 0xF0
+  .stringn "<TAG_01><TAG_06><TAG_07>C-certo. Quando eu tiver", 0x06, 0xF0
+  .stringn "salvado a <Lydie>, prometo", 0x06, 0xF0
   .stringn "que voltarei para buscá-lo...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Certo... Por favor...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_023: ;diálogo 23
   .stringn "*<TAG_06><TAG_07><Lydie>!!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_12><TAG_13><Juste>!", 0x06, 0xF0
   .stringn "É você, não é, <Juste>?!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Você está bem?", 0x06, 0xF0
   .stringn "Não está ferida?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
-  .stringn "<TAG_01><TAG_12><TAG_13>Estou bem. ", 0x06, 0xF0
+  .stringn "<TAG_01><TAG_12><TAG_13>Estou bem.", 0x06, 0xF0
   .stringn "<Maxim> me escondeu", 0x06, 0xF0
   .stringn "aqui.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>...É isso então?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_12><TAG_13>Ele não está com você?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07><Maxim> está nos esperando", 0x06, 0xF0
   .stringn "do lado de fora,", 0x06, 0xF0
   .stringn "provavelmente...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_12><TAG_13><Juste>, o que aconteceu", 0x06, 0xF0
   .stringn "com a pessoa que me", 0x06, 0xF0
   .stringn "trouxe aqui?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Quem trouxe você aqui?", 0x06, 0xF0
   .stringn "Quer dizer que você não sabe?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_12><TAG_13>Antes de <Maxim> ter vindo", 0x06, 0xF0
   .stringn "até mim, eu estava de olhos", 0x06, 0xF0
   .stringn "vendados o tempo inteiro...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Entendo...", 0x06, 0xF0
-  .stringn "Bem, por hora vamos apenas", 0x06, 0xF0
+  .stringn "Bem, por ora vamos apenas", 0x06, 0xF0
   .stringn "tentar escapar daqui...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_12><TAG_13>Certo.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_03><TAG_05>Então ela estava escondida", 0x06, 0xF0
   .stringn "aqui... Aquele confrade é", 0x06, 0xF0
   .stringn "corajoso, de fato.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_12><TAG_13>Nããããoo!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07><Lydie>!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_03><TAG_05>Eu vou levar a garota.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_12><TAG_13>Não! <Juste>... me salve!!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_06><TAG_07>Droga!", 0x06, 0xF0
   .stringn "Eu não posso deixá-lo tê-la!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_024: ;diálogo 24
   .stringn "*<TAG_06><TAG_07>Aí está você.", 0x06, 0xF0
   .stringn "Devolva a <Lydie>!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_03><TAG_05>Não se preocupe.", 0x06, 0xF0
   .stringn "Ela está com Lorde <Maxim>.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Por quê!?", 0x06, 0xF0
   .stringn "<Lydie> não tem nada", 0x06, 0xF0
   .stringn "com isso!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_03><TAG_05>Para o castelo ser", 0x06, 0xF0
   .stringn "unificado, a garota", 0x06, 0xF0
   .stringn "é necessária.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>O que quer dizer com isso?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_03><TAG_05>Esse castelo está em", 0x06, 0xF0
   .stringn "um estado incompleto.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Ele deve ser preparado para a", 0x06, 0xF0
   .stringn "revivificação do meu mestre.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Enquanto os dois castelos", 0x06, 0xF0
   .stringn "não estiverem juntos como", 0x06, 0xF0
   .stringn "um só...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "A forma do castelo de Drácula", 0x06, 0xF0
   .stringn "não estará completa.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "A alma do querido amigo", 0x06, 0xF0
   .stringn "de meu lorde é necessária.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07><Maxim> é um homem forte!", 0x06, 0xF0
   .stringn "Não será tão facilmente", 0x06, 0xF0
   .stringn "como você pensa.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_03><TAG_05>Ele está preenchido com o poder", 0x06, 0xF0
   .stringn "de Lorde Drácula...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "E, eu conheço uma forma de", 0x06, 0xF0
   .stringn "aumentar esse poder dentro", 0x06, 0xF0
   .stringn "dele.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Se, talvez, a energia de alguém", 0x06, 0xF0
   .stringn "próximo a ele for usada, imagino", 0x06, 0xF0
   .stringn "qual seria o efeito disso...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Vocês... Não me digam que...", 0x06, 0xF0
   .stringn "irão tomar a vida dela?", 0x06, 0xF0
   .stringn "Vocês não podem fazer isso!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_03><TAG_05>Não interfira. A vela da alma", 0x06, 0xF0
   .stringn "de Lorde <Maxim> está perto", 0x06, 0xF0
   .stringn "de ser queimada.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_025: ;diálogo 25
   .stringn "*<TAG_03><TAG_05>Você chegou tarde demais.", 0x06, 0xF0
   .stringn "O castelo em breve estará", 0x06, 0xF0
   .stringn "completo!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_026: ;diálogo 26
   .stringn "*<TAG_06><TAG_07>Pare!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_08><TAG_09>J-<Juste>...", 0x06, 0xF0
   .stringn "É você.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_06><TAG_07><Lydie>!", 0x06, 0xF0
   .stringn "Você está bem?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_12><TAG_13>...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Ela desmaiou. Parece que", 0x06, 0xF0
   .stringn "eu cheguei a tempo.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_06><TAG_07><Maxim>!", 0x06, 0xF0
   .stringn "Você ainda está em", 0x06, 0xF0
   .stringn "si mesmo, não está?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Um pouco. Mas já consigo", 0x06, 0xF0
   .stringn "vê-lo voltando...", 0x06, 0xF0
   .stringn "Por favor... me mate!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Do que você está falando?", 0x06, 0xF0
   .stringn "Tal coisa seria...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Essa não. Não consigo mais", 0x06, 0xF0
   .stringn "reprimir os desejos!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Eu... Eu não posso fazê-lo...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_11><TAG_09>Então me conceda a honra.", 0x06, 0xF0
   .stringn "Prepare-se!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_027: ;diálogo 27
   .stringn "*<TAG_08><TAG_09>Obrigado, <Juste>.", 0x06, 0xF0
   .stringn "Estou satisfeito...", 0x06, 0xF0
   .stringn "por perecer pelas suas mãos...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07><Maxim>!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Eu queria libertá-lo de", 0x06, 0xF0
   .stringn "um destino amaldiçoado...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Está tudo bem...", 0x06, 0xF0
   .stringn "Não fale mais...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
-  .stringn "<TAG_01><TAG_08><TAG_09>P-Por favor cuide da <Lydie>...", 0x06, 0xF0
+  .stringn "<TAG_01><TAG_08><TAG_09>P-por favor cuide da <Lydie>...", 0x06, 0xF0
   .stringn "<TAG_02>", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07><Maxim>!!!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_028: ;diálogo 28
   .stringn "*<TAG_06><TAG_07><Lydie>!!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_12><TAG_13>...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Ela ainda está respirando,", 0x06, 0xF0
   .stringn "mas... Droga! Cheguei tarde", 0x06, 0xF0
   .stringn "demais?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_11><TAG_09>Bem-vindo, <Juste>.", 0x06, 0xF0
   .stringn "Você está atrasado.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_06><TAG_07><Maxim>...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_11><TAG_09><Maxim>?", 0x06, 0xF0
   .stringn "Ah, se está se referindo", 0x06, 0xF0
   .stringn "ao seu amigo, ele está morto.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "<TAG_02>Graças à garota, eu obtive", 0x06, 0xF0
   .stringn "força suficiente para", 0x06, 0xF0
   .stringn "ultrapassá-lo completamente.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_06><TAG_07>Seu maldito!", 0x06, 0xF0
   .stringn "Eu não vou perdoar isso!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_11><TAG_09>Isso não faz diferença para mim.", 0x06, 0xF0
   .stringn "Você é meu inimigo, seu", 0x06, 0xF0
   .stringn "negligente.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_029: ;diálogo 29
   .stringn "*<TAG_06><TAG_07><Maxim>...", 0x06, 0xF0
   .stringn "Me perdoe...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_11><TAG_09>Acha mesmo que eu vou perder...", 0x06, 0xF0
   .stringn "Eu, que manuseio os poderes", 0x06, 0xF0
   .stringn "de Conde Drácula...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07><Maxim> era mais forte", 0x06, 0xF0
   .stringn "que você...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Eu não creio que você", 0x06, 0xF0
   .stringn "conseguiria tomar tudo", 0x06, 0xF0
   .stringn "que ele era!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_11><TAG_09>Mas se eu morrer,", 0x06, 0xF0
   .stringn "ele morrerá.", 0x06, 0xF0
   .stringn "E a mulher também...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_11><TAG_09>Então esse é o adeus...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Com essa sua força amaldiçoada,", 0x06, 0xF0
@@ -905,82 +699,60 @@ str_030: ;diálogo 30
   .stringn "*<TAG_08><TAG_09>Aaargh...", 0x06, 0xF0
   .stringn "Esse... Esse bracelete...", 0x06, 0xF0
   .stringn "Você vestiu isso, afinal...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_06><TAG_07><Maxim>? É você?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_11><TAG_09>Por que ele está voltando?", 0x06, 0xF0
   .stringn "Você já deveria estar morto!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Lembre-se, <Maxim>!", 0x06, 0xF0
   .stringn "Você não tem caráter fraco!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_08><TAG_09>Você... Você tem razão.", 0x06, 0xF0
   .stringn "Comparado ao treinamento...", 0x06, 0xF0
   .stringn "Isso não é grande coisa, não é?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_11><TAG_09>Por quê? Por que não consigo", 0x06, 0xF0
   .stringn "mais controlar esse corpo?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Eu não vou dar liberdade", 0x06, 0xF0
   .stringn "a você novamente.", 0x06, 0xF0
   .stringn "<Juste>! Termine com ele!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_11><TAG_09>Uh...", 0x06, 0xF0
   .stringn "<TAG_02>Energia... intensa...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_06><TAG_07>As... As relíquias!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_11><TAG_09>Essa energia por si só deve", 0x06, 0xF0
   .stringn "bastar... Eu não preciso mais", 0x06, 0xF0
   .stringn "desse corpo. Fique com isso!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_08><TAG_09>Aaaaaah!!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_10><TAG_14><TAG_15>Maldição! Como eu pensei,", 0x06, 0xF0
   .stringn "meu poder está instável.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Mas se eu beber seu sangue,", 0x06, 0xF0
   .stringn "obterei minha força total.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Acha mesmo que é capaz?", 0x06, 0xF0
   .stringn "<TAG_02>Não subestime um <Belmont>.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_14><TAG_15><TAG_02>Bem, vamos começar?", 0x06, 0xF0
   .stringn "Que inicie a luta.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_031: ;diálogo 31
   .stringn "*<TAG_14><TAG_15>Argggh!!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Como eu disse, não subestime", 0x06, 0xF0
   .stringn "o poder da minha linhagem", 0x06, 0xF0
-  .stringn "sangüínea!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "sanguínea!", 0x06, 0xF0
   .stringn "<TAG_01><TAG_14><TAG_15>Esse é o poder dos <Belmont>s?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Agora que está separado do", 0x06, 0xF0
   .stringn "<Maxim>, você é meu inimigo", 0x06, 0xF0
   .stringn "acima de tudo.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_14><TAG_15>Eu irei morrer dessa forma...", 0x06, 0xF0
   .stringn "Entretanto, sob esse poder", 0x06, 0xF0
   .stringn "amaldiçoado...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Você e seus descendentes estão", 0x06, 0xF0
   .stringn "destinados a serem caçadores", 0x06, 0xF0
   .stringn "por toda a eternidade.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Mesmo na morte, eu ainda", 0x06, 0xF0
   .stringn "encontrarei prazer apenas", 0x06, 0xF0
   .stringn "por causa desse fato.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_032: ;diálogo 32
@@ -988,209 +760,154 @@ str_032: ;diálogo 32
   .stringn "Ungh...", 0x06, 0xF0
   .stringn "<TAG_02>", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_06><TAG_07>Ah, você acordou.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_12><TAG_13>Nós estamos... bem?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Sim.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_12><TAG_13>Oh? Onde está o <Maxim>?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07><Maxim>...", 0x06, 0xF0
   .stringn "Ele...", 0x06, 0xF0
   .stringn "...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_12><TAG_13><Juste>... Está tudo bem.", 0x06, 0xF0
   .stringn "Você não precisa dizer.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Eu... Eu...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_12><TAG_13>Posso não entender muito bem", 0x06, 0xF0
   .stringn "o que estava acontecendo", 0x06, 0xF0
   .stringn "entre vocês dois...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Mas, você não deve agir", 0x06, 0xF0
   .stringn "severamente contra si", 0x06, 0xF0
   .stringn "próprio.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Culpar a si mesmo não seria", 0x06, 0xF0
   .stringn "diferente de culpar o <Maxim>.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Talvez você esteja certa.", 0x06, 0xF0
   .stringn "Ele certamente era", 0x06, 0xF0
   .stringn "uma ótima pessoa.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_12><TAG_13>Vamos. É melhor você descansar", 0x06, 0xF0
   .stringn "e ter um tempo para pensar", 0x06, 0xF0
   .stringn "antes de me contar a história.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Você tem razão...", 0x06, 0xF0
   .stringn "Certo. Vamos então, <Lydie>!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_033: ;diálogo 33
   .stringn "*<TAG_06><TAG_07>Droga! Maldição! Enfim,", 0x06, 0xF0
   .stringn "eu não pude salvar nem", 0x06, 0xF0
   .stringn "a <Lydie> nem o <Maxim>.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Tudo que resta para", 0x06, 0xF0
   .stringn "lembrar deles é esse", 0x06, 0xF0
   .stringn "bracelete...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "<TAG_02>Eu não pude nem proteger", 0x06, 0xF0
   .stringn "aqueles que amo. Eu falhei", 0x06, 0xF0
   .stringn "como um caçador de vampiros!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "O que diabos eu devo fazer", 0x06, 0xF0
   .stringn "comigo mesmo agora...?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_034: ;diálogo 34
   .stringn "*<TAG_08><TAG_09>...", 0x06, 0xF0
   .stringn "Onde...", 0x06, 0xF0
   .stringn "Onde nós estamos?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07><Maxim>, você acordou.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_08><TAG_09>Eu também sobrevivi?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>A sua força expulsou o Drácula.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Não a minha força...", 0x06, 0xF0
   .stringn "Melhor dizendo, a sua", 0x06, 0xF0
   .stringn "e a da <Lydie>.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "<TAG_02>Ah!", 0x06, 0xF0
   .stringn "E sobre a <Lydie>?", 0x06, 0xF0
   .stringn "Ela está salva?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Ela ainda está inconsciente.", 0x06, 0xF0
   .stringn "Mas desde quando o Drácula", 0x06, 0xF0
   .stringn "foi destruído...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "As feridas no seu pescoço", 0x06, 0xF0
   .stringn "desapareceram.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "A cor da pele dela também está", 0x06, 0xF0
   .stringn "voltando ao normal. É só questão", 0x06, 0xF0
   .stringn "de tempo para ela acordar.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Oh...", 0x06, 0xF0
   .stringn "<Juste>...", 0x06, 0xF0
   .stringn "Eu sinto muito.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Tudo acabou agora. E todos", 0x06, 0xF0
   .stringn "estão bem. Você não precisa", 0x06, 0xF0
   .stringn "dizer mais nada.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>...", 0x06, 0xF0
   .stringn "Obrigado...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_12><TAG_13>...", 0x06, 0xF0
   .stringn "Ungh...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_06><TAG_07><Lydie> está acordando.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_12><TAG_13>Oh... <Juste>.", 0x06, 0xF0
   .stringn "Onde eu estou?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Alguém...", 0x06, 0xF0
   .stringn "Maxim...", 0x06, 0xF0
   .stringn "Chupando sangue...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Opa! Acalme-se. Você estava", 0x06, 0xF0
   .stringn "tendo um pesadelo.", 0x06, 0xF0
   .stringn "Sinta seu pescoço.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_12><TAG_13>...", 0x06, 0xF0
   .stringn "<TAG_10><TAG_19>Não tem nada aqui...", 0x06, 0xF0
   .stringn "Então foi só um sonho...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Ei, a verdade...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_06><TAG_07>Shh! Fique quieto!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_12><TAG_13>Oh?", 0x06, 0xF0
   .stringn "<Maxim>!", 0x06, 0xF0
   .stringn "Você voltou!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Bem, na verdade...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Sim. <Maxim> voltou.", 0x06, 0xF0
   .stringn "Ele provavelmente está", 0x06, 0xF0
   .stringn "exausto da jornada.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Então por que não conversamos", 0x06, 0xF0
   .stringn "só depois de chegarmos em casa?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Não. Eu...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Tudo bem, não é <Maxim>?", 0x06, 0xF0
   .stringn "Não aconteceu nada.", 0x06, 0xF0
   .stringn "Está tudo bem, não é?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Acha que vou deixar passar?", 0x06, 0xF0
   .stringn "É sempre assim. Você sempre está", 0x06, 0xF0
   .stringn "levando as coisas longe demais!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_06><TAG_07>O que você disse?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_12><TAG_13>Parem com isso!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_12><TAG_13>Basta, vocês dois!", 0x06, 0xF0
   .stringn "Já vão brigar logo", 0x06, 0xF0
   .stringn "depois de nos encontrarmos?", 0x06, 0xF0
   .stringn "<TAG_02>", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>A verdade é, <Lydie>...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_12><TAG_13>Ouvirei suas explicações", 0x06, 0xF0
   .stringn "depois que chegarmos", 0x06, 0xF0
   .stringn "em casa.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Até então, vocês dois parem", 0x06, 0xF0
   .stringn "de falar assim tão", 0x06, 0xF0
   .stringn "estranhamente.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Você ouviu a garota, <Maxim>.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>...", 0x06, 0xF0
   .stringn "<TAG_02>Está bem...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_02><TAG_12><TAG_13>Rí rí. Fazia muito tempo,", 0x06, 0xF0
   .stringn "não é? Quando nós três", 0x06, 0xF0
   .stringn "ficávamos juntos assim.", 0x06, 0xF0
   .stringn "<TAG_02>", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Com certeza faz.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>É...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_035: ;diálogo 35
@@ -2080,7 +1797,7 @@ str_256: ;diálogo 256
 
 str_257: ;diálogo 257
   .stringn "*Contém uma poção que torna o usuário", 0x06, 0xF0
-  .stringn "invencível temporariamente.  ", 0x06, 0xF0
+  .stringn "invencível temporariamente.", 0x06, 0xF0
   .stringn ""
 
 str_258: ;diálogo 258
@@ -2145,23 +1862,23 @@ str_270: ;diálogo 270
   .stringn ""
 
 str_271: ;diálogo 271
-  .stringn "*Uma jóia branca.", 0x06, 0xF0
+  .stringn "*Uma joia branca.", 0x06, 0xF0
   .stringn ""
 
 str_272: ;diálogo 272
-  .stringn "*Uma jóia ciano-opaca.", 0x06, 0xF0
+  .stringn "*Uma joia ciano-opaca.", 0x06, 0xF0
   .stringn ""
 
 str_273: ;diálogo 273
-  .stringn "*Uma valiosa jóia azul.", 0x06, 0xF0
+  .stringn "*Uma valiosa joia azul.", 0x06, 0xF0
   .stringn ""
 
 str_274: ;diálogo 274
-  .stringn "*Uma valiosa jóia vermelha.", 0x06, 0xF0
+  .stringn "*Uma valiosa joia vermelha.", 0x06, 0xF0
   .stringn ""
 
 str_275: ;diálogo 275
-  .stringn "*Uma jóia extremamente valiosa.", 0x06, 0xF0
+  .stringn "*Uma joia extremamente valiosa.", 0x06, 0xF0
   .stringn ""
 
 str_276: ;diálogo 276
@@ -2208,7 +1925,7 @@ str_284: ;diálogo 284
   .stringn "aos ataques do chicote."
 
 str_285: ;diálogo 285
-  .stringn "*Armadura bastante flexível   ", 0x06, 0xF0
+  .stringn "*Armadura bastante flexível", 0x06, 0xF0
   .stringn "feita de couro cru tostado.", 0x06, 0xF0
   .stringn ""
 
@@ -2268,8 +1985,8 @@ str_297: ;diálogo 297
   .stringn ""
 
 str_298: ;diálogo 298
-  .stringn "*Armadura que recupera PV do usuário   ", 0x06, 0xF0
-  .stringn "quando ele estiver parado.       ", 0x06, 0xF0
+  .stringn "*Armadura que recupera PV do usuário", 0x06, 0xF0
+  .stringn "quando ele estiver parado.", 0x06, 0xF0
   .stringn ""
 
 str_299: ;diálogo 299
@@ -2371,8 +2088,8 @@ str_319: ;diálogo 319
   .stringn ""
 
 str_320: ;diálogo 320
-  .stringn "*Parece um casaco comum,    ", 0x06, 0xF0
-  .stringn "mas foi cosido com metal. ", 0x06, 0xF0
+  .stringn "*Parece um casaco comum,", 0x06, 0xF0
+  .stringn "mas foi cosido com metal.", 0x06, 0xF0
   .stringn ""
 
 str_321: ;diálogo 321
@@ -2405,7 +2122,7 @@ str_326: ;diálogo 326
 
 str_327: ;diálogo 327
   .stringn "*Juste cresceu atado a esse", 0x06, 0xF0
-  .stringn "bracelete e sempre o usa.   ", 0x06, 0xF0
+  .stringn "bracelete e sempre o usa.", 0x06, 0xF0
   .stringn ""
 
 str_328: ;diálogo 328
@@ -2540,8 +2257,8 @@ str_356: ;diálogo 356
   .stringn ""
 
 str_357: ;diálogo 357
-  .stringn "*Um elmo freqüentemente", 0x06, 0xF0
-  .stringn "usado pelos Vikings.   ", 0x06, 0xF0
+  .stringn "*Um elmo frequentemente", 0x06, 0xF0
+  .stringn "usado pelos Vikings.", 0x06, 0xF0
   .stringn ""
 
 str_358: ;diálogo 358
@@ -2734,7 +2451,7 @@ str_400: ;diálogo 400
   .stringn ""
 
 str_401: ;diálogo 401
-  .stringn "*Esse broche deixa o seu ", 0x06, 0xF0
+  .stringn "*Esse broche deixa o seu", 0x06, 0xF0
   .stringn "usuário mais sábio.", 0x06, 0xF0
   .stringn ""
 
@@ -2810,22 +2527,22 @@ str_417: ;diálogo 417
 
 str_418: ;diálogo 418
   .stringn "*Pressionando <TAG_20> <TAG_21> PULO,", 0x06, 0xF0
-  .stringn "o usuário pode dar uma rasteira.  ", 0x06, 0xF0
+  .stringn "o usuário pode dar uma rasteira.", 0x06, 0xF0
   .stringn ""
 
 str_419: ;diálogo 419
   .stringn "*Enquanto estiver no ar, o usuário", 0x06, 0xF0
-  .stringn "pode realizar outro pulo.     ", 0x06, 0xF0
+  .stringn "pode realizar outro pulo.", 0x06, 0xF0
   .stringn ""
 
 str_420: ;diálogo 420
-  .stringn "*Pressionando <TAG_20> <TAG_21> <TAG_22> <TAG_21> PULO, ", 0x06, 0xF0
+  .stringn "*Pressionando <TAG_20> <TAG_21> <TAG_22> <TAG_21> PULO,", 0x06, 0xF0
   .stringn "o usuário pode executar um PULO ALTO.", 0x06, 0xF0
   .stringn ""
 
 str_421: ;diálogo 421
   .stringn "*Permite ao usuário reconhecer", 0x06, 0xF0
-  .stringn "quanto dano um inimigo recebeu.  ", 0x06, 0xF0
+  .stringn "quanto dano um inimigo recebeu.", 0x06, 0xF0
   .stringn ""
 
 str_422: ;diálogo 422
@@ -2844,7 +2561,7 @@ str_424: ;diálogo 424
   .stringn ""
 
 str_425: ;diálogo 425
-  .stringn "*Uma das relíquias de Drácula.   ", 0x06, 0xF0
+  .stringn "*Uma das relíquias de Drácula.", 0x06, 0xF0
   .stringn "Tem o poder de negar petrificação.", 0x06, 0xF0
   .stringn ""
 
@@ -2993,17 +2710,17 @@ str_454: ;diálogo 454
 
 str_455: ;diálogo 455
   .stringn "*A inscrição diz: \"A luz de velas,", 0x06, 0xF0
-  .stringn "qualquer culinária se torna comestível.\"      ", 0x06, 0xF0
+  .stringn "qualquer culinária se torna comestível.\"", 0x06, 0xF0
   .stringn ""
 
 str_456: ;diálogo 456
   .stringn "*A inscrição diz: \"A luz de velas, sua", 0x06, 0xF0
-  .stringn "namorada irá gostar mais de você.\"       ", 0x06, 0xF0
+  .stringn "namorada irá gostar mais de você.\"", 0x06, 0xF0
   .stringn ""
 
 str_457: ;diálogo 457
-  .stringn "*Olhe-o e tenha a sensação      ", 0x06, 0xF0
-  .stringn "de que alguém esteve ali...       ", 0x06, 0xF0
+  .stringn "*Olhe-o e tenha a sensação", 0x06, 0xF0
+  .stringn "de que alguém esteve ali...", 0x06, 0xF0
   .stringn ""
 
 str_458: ;diálogo 458
@@ -3012,7 +2729,7 @@ str_458: ;diálogo 458
 
 str_459: ;diálogo 459
   .stringn "*Fabricada pelo único nome confiável", 0x06, 0xF0
-  .stringn "e genuíno em camas:\"FUTON\".      ", 0x06, 0xF0
+  .stringn "e genuíno em camas:\"FUTON\".", 0x06, 0xF0
   .stringn ""
 
 str_460: ;diálogo 460
@@ -3053,7 +2770,7 @@ str_468: ;diálogo 468
   .stringn ""
 
 str_469: ;diálogo 469
-  .stringn "*Fidalgo Blindado", 0x06, 0xF0
+  .stringn "*Cavaleiro Armado", 0x06, 0xF0
   .stringn ""
 
 str_470: ;diálogo 470
@@ -3566,7 +3283,7 @@ str_598: ;diálogo 598
   .stringn ""
 
 str_599: ;diálogo 599
-  .stringn "*Escolher Livro Mágico.    ", 0x06, 0xF0
+  .stringn "*Escolher Livro Mágico.", 0x06, 0xF0
   .stringn ""
 
 str_600: ;diálogo 600
@@ -3695,19 +3412,19 @@ str_629: ;diálogo 629
   .stringn ""
 
 str_630: ;diálogo 630
-  .stringn "*item mágico ", 0x06, 0xF0
+  .stringn "*item mágico", 0x06, 0xF0
   .stringn ""
 
 str_631: ;diálogo 631
-  .stringn "*arma ", 0x06, 0xF0
+  .stringn "*arma", 0x06, 0xF0
   .stringn ""
 
 str_632: ;diálogo 632
-  .stringn "*pergaminho mágico ", 0x06, 0xF0
+  .stringn "*pergaminho mágico", 0x06, 0xF0
   .stringn ""
 
 str_633: ;diálogo 633
-  .stringn "*Obteve ", 0x06, 0xF0
+  .stringn "*Obteve", 0x06, 0xF0
   .stringn ""
 
 str_634: ;diálogo 634
@@ -3746,53 +3463,42 @@ str_641: ;diálogo 641
 str_642: ;diálogo 642
   .stringn "*<TAG_17><TAG_18>Oh meu deus!", 0x06, 0xF0
   .stringn "Bem-vindo!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>O que você está fazendo", 0x06, 0xF0
   .stringn "em um lugar como esse?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
-  .stringn "<TAG_01><TAG_17><TAG_18>Bem, sou um mercador   ", 0x06, 0xF0
+  .stringn "<TAG_01><TAG_17><TAG_18>Bem, sou um mercador", 0x06, 0xF0
   .stringn "viajante como você vê...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Enquanto eu estava na estrada,", 0x06, 0xF0
   .stringn "fiquei preso em um denso", 0x06, 0xF0
-  .stringn "nevoeiro...    ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "nevoeiro...", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Então repentinamente,", 0x06, 0xF0
   .stringn "encontrei-me nesse castelo!", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Mas, abrir loja em um lugar", 0x06, 0xF0
   .stringn "como esse...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01><TAG_17><TAG_18>É claro que tentei procurar", 0x06, 0xF0
   .stringn "por uma saída. Mas parece que", 0x06, 0xF0
   .stringn "não pude encontrar nenhuma.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Sem ter outra escolha,", 0x06, 0xF0
   .stringn "montei minha loja...", 0x06, 0xF0
-  .stringn "Nada para fazer, você sabe.   ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "Nada para fazer, você sabe.", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Então, como posso ajudá-lo?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_643: ;diálogo 643
   .stringn "*<TAG_17><TAG_18>Então nos encontramos de novo.", 0x06, 0xF0
   .stringn "Estou feliz por você estar bem.", 0x06, 0xF0
-  .stringn "No que posso ser útil?        ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "No que posso ser útil?", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_644: ;diálogo 644
   .stringn "*<TAG_17><TAG_18>Hum? Esqueceu de alguma coisa?", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_645: ;diálogo 645
@@ -3804,36 +3510,31 @@ str_646: ;diálogo 646
   .stringn "posso lhe dar algumas moedas em troca."
 
 str_647: ;diálogo 647
-  .stringn "*Então, já terminou os negócios ", 0x06, 0xF0
+  .stringn "*Então, já terminou os negócios", 0x06, 0xF0
   .stringn "comigo?", 0x06, 0xF0
   .stringn ""
 
 str_648: ;diálogo 648
   .stringn "*<TAG_06><TAG_07>Nossa! Que quarto elegante.", 0x06, 0xF0
   .stringn "Mas está um pouco vazio.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Se eu tivesse uns móveis", 0x06, 0xF0
   .stringn "ou decorações...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Certo. Vou deixar aqui", 0x06, 0xF0
   .stringn "essas coisas que eu", 0x06, 0xF0
   .stringn "estou carregando.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_649: ;diálogo 649
   .stringn "*<TAG_06><TAG_07>Nossa! Que quarto elegante.", 0x06, 0xF0
   .stringn "Mas está um pouco vazio.", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Se eu tivesse uns móveis", 0x06, 0xF0
   .stringn "ou decorações...", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_650: ;diálogo 650
@@ -3843,21 +3544,18 @@ str_650: ;diálogo 650
 str_651: ;diálogo 651
   .stringn "*<TAG_06><TAG_07>Por alguma razão, as coisas", 0x06, 0xF0
   .stringn "aparentam estar um pouco", 0x06, 0xF0
-  .stringn "diferentes de antes...    ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "diferentes de antes...", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_652: ;diálogo 652
-  .stringn "*<TAG_06><TAG_07>Estou no mesmo lugar de antes,   ", 0x06, 0xF0
-  .stringn "mas a atmosfera está   ", 0x06, 0xF0
-  .stringn "diferente.   ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "*<TAG_06><TAG_07>Estou no mesmo lugar de antes,", 0x06, 0xF0
+  .stringn "mas a atmosfera está", 0x06, 0xF0
+  .stringn "diferente.", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
-  .stringn "Agora entendo. É isso que a      ", 0x06, 0xF0
-  .stringn "Morte quis dizer com      ", 0x06, 0xF0
-  .stringn "“dois castelos”.       ", 0x06, 0xF0
-  .stringn "", 0x06, 0xF0
+  .stringn "Agora entendo. É isso que a", 0x06, 0xF0
+  .stringn "Morte quis dizer com", 0x06, 0xF0
+  .stringn "“dois castelos”.", 0x06, 0xF0
   .stringn "<TAG_01>"
 
 str_653: ;diálogo 653
@@ -3898,7 +3596,7 @@ str_660: ;diálogo 660
   .stringn ""
 
 str_661: ;diálogo 661
-  .stringn "* Gruta dos Esqueletos  ", 0x06, 0xF0
+  .stringn "* Gruta dos Esqueletos", 0x06, 0xF0
   .stringn " (Música de Área)", 0x06, 0xF0
   .stringn ""
 
