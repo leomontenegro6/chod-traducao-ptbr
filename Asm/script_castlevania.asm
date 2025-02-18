@@ -1,6 +1,5 @@
 .gba
-.create "chod.gba", 0x08000000
-  .incbin "orig_graficos.gba"
+.open "chod.gba", 0x08000000
 .loadtable "./Tabelas/script_castlevania.tbl"
 
 org 0x087EECE4
