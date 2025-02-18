@@ -1,0 +1,35 @@
+===========================================================================================================
+Castlevania Harmony of Dissonance - Recolor by JonataGuitar and sorrow
+===========================================================================================================
+Following the success of JonataGuitar's Aria of Sorrow recolor, comes the Castlevania Harmony of Dissonance Recolor by both JonataGuiter and sorrow!  
+
+A "basic" hack for Castlevania Harmony of Dissonance that aims to overhaul the visuals of the game, creating a much more enjoyable for a fresh playthrough, as well as being easier on the eyes.  
+
+*ALL of the games pallettes (Backgrounds, Animations, Characters, and Enemies) have been recolored by JonataGuitar.
+
+*All of the animation sequence palettes are not easily found in DSVEdit and were found by sorrow and given to JonataGuitar to complete the broken areas.
+
+*Various area tilesets were fixed by sorrow to accomodate the new colors properly.
+
+*Final Boss Battles were tweaked by sorrow to take place in Dracula's Throne Room (from Boss Rush Mode) before transitioning to the Psychedelic area for the "Brain Fight."
+
+*QUICK NOTE* 
+
+These patches are meant to recolor the palettes ONLY.  There is NO guarantee they will work with other patches.  
+
+Future plans will include different versions of the recolor as well as compatibility for HoD Revenge of the Findesiecle Deluxe+ hack.
+ 
+Not much else to say except for ENJOY!
+
+Database match: Castlevania - Harmony of Dissonance (USA)
+Database: No-Intro: Game Boy Advance (v. 20180816-092117)
+File/ROM SHA-1: B90DA0D9BE0B3A0893CD9E2C399056BCF9579E21
+File/ROM CRC32: 88C1B562
+
+Credits:
+
+JonataGuitar - Artist responsible for overhauling all of the palettes for a new visual style.
+
+sorrow - Found ALL of the animation palette sequences, edited room tiles to fix broken parts and match to the new palettes.  Inserted Dracula's Boss Room in place of the Pyschedelic room for the first parts of the final Boss Battles.  (Psychedelic room is still in place for the "brain fight")
+
+LagoLunatic - creating DSVEdit
