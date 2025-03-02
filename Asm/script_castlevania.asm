@@ -135,12 +135,12 @@ str_013: ;diálogo 13
   .stringn "<TAG_01>"
 
 str_014: ;diálogo 14
-  .stringn "*<TAG_06><TAG_07><Maxim>, você está bem!", 0x06, 0xF0
+  .stringn "*<TAG_06><TAG_07><Maxim>, que bom que está bem!", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09><TAG_02>Sim... É você, <Juste>?", 0x06, 0xF0
-  .stringn "Sim. Acho que estou bem.", 0x06, 0xF0
+  .stringn "É, acho que estou bem.", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>O que há de errado?", 0x06, 0xF0
-  .stringn "Você não parece estar", 0x06, 0xF0
-  .stringn "se sentindo bem.", 0x06, 0xF0
+  .stringn "Você parece estar", 0x06, 0xF0
+  .stringn "um pouco estranho.", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09><TAG_02>Eu...", 0x06, 0xF0
   .stringn "Não sei como", 0x06, 0xF0
   .stringn "cheguei ao castelo.", 0x06, 0xF0
@@ -260,7 +260,7 @@ str_016: ;diálogo 16
   .stringn "desfazer a maldição de Drácula.", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>Achei que se eu pudesse reunir", 0x06, 0xF0
   .stringn "e destruir esses pedaços de", 0x06, 0xF0
-  .stringn "Drácula por contra própria...", 0x06, 0xF0
+  .stringn "Drácula por conta própria...", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
   .stringn "Meu desejo seria realizado.", 0x06, 0xF0
@@ -379,7 +379,7 @@ str_020: ;diálogo 20
   .stringn "Um deles é sua própria alma...", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
 
-  .stringn "O outro é o espírito malígno", 0x06, 0xF0
+  .stringn "O outro é o espírito maligno", 0x06, 0xF0
   .stringn "de milorde Drácula, que", 0x06, 0xF0
   .stringn "veio das relíquias.", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Isso é ridículo.", 0x06, 0xF0
@@ -439,7 +439,7 @@ str_021: ;diálogo 21
   .stringn "a par da minha existência.", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Então o sequestro de <Lydie>", 0x06, 0xF0
   .stringn "foi obra sua, não foi?", 0x06, 0xF0
-  .stringn "<TAG_01><TAG_02><TAG_11><TAG_09>Ré ré ré...", 0x06, 0xF0
+  .stringn "<TAG_01><TAG_02><TAG_11><TAG_09>He he he...", 0x06, 0xF0
   .stringn "Obviamente...", 0x06, 0xF0
   .stringn "É claro que foi obra minha.", 0x06, 0xF0
   .stringn "", 0x05, 0xF0, 0x09, 0xF0
@@ -639,7 +639,7 @@ str_027: ;diálogo 27
   .stringn "um destino amaldiçoado...", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07>Está tudo bem...", 0x06, 0xF0
   .stringn "Não fale mais...", 0x06, 0xF0
-  .stringn "<TAG_01><TAG_08><TAG_09>P-por favor cuide da <Lydie>...", 0x06, 0xF0
+  .stringn "<TAG_01><TAG_08><TAG_09>P-por favor, cuide da <Lydie>...", 0x06, 0xF0
   .stringn "<TAG_02>", 0x06, 0xF0
   .stringn "<TAG_01><TAG_06><TAG_07><Maxim>!!!", 0x06, 0xF0
   .stringn "<TAG_01>"
@@ -901,7 +901,7 @@ str_034: ;diálogo 34
   .stringn "<TAG_01><TAG_06><TAG_07>Você ouviu a garota, <Maxim>.", 0x06, 0xF0
   .stringn "<TAG_01><TAG_08><TAG_09>...", 0x06, 0xF0
   .stringn "<TAG_02>Está bem...", 0x06, 0xF0
-  .stringn "<TAG_01><TAG_02><TAG_12><TAG_13>Rí rí. Fazia muito tempo,", 0x06, 0xF0
+  .stringn "<TAG_01><TAG_02><TAG_12><TAG_13>Hi hi. Fazia muito tempo,", 0x06, 0xF0
   .stringn "não é? Quando nós três", 0x06, 0xF0
   .stringn "ficávamos juntos assim.", 0x06, 0xF0
   .stringn "<TAG_02>", 0x06, 0xF0
@@ -2797,7 +2797,7 @@ str_475: ;diálogo 475
   .stringn ""
 
 str_476: ;diálogo 476
-  .stringn "*Drag<ã>o Claro", 0x06, 0xF0
+  .stringn "*Drag<ã>o Parafuso", 0x06, 0xF0
   .stringn ""
 
 str_477: ;diálogo 477
@@ -2889,7 +2889,7 @@ str_498: ;diálogo 498
   .stringn ""
 
 str_499: ;diálogo 499
-  .stringn "*Sereia", 0x06, 0xF0
+  .stringn "*Aliorumnas", 0x06, 0xF0
   .stringn ""
 
 str_500: ;diálogo 500
@@ -2941,7 +2941,7 @@ str_511: ;diálogo 511
   .stringn ""
 
 str_512: ;diálogo 512
-  .stringn "*Homem-Corvo", 0x06, 0xF0
+  .stringn "*Malfas", 0x06, 0xF0
   .stringn ""
 
 str_513: ;diálogo 513
@@ -2969,11 +2969,11 @@ str_518: ;diálogo 518
   .stringn ""
 
 str_519: ;diálogo 519
-  .stringn "*Imitador", 0x06, 0xF0
+  .stringn "*M<í>mico", 0x06, 0xF0
   .stringn ""
 
 str_520: ;diálogo 520
-  .stringn "*Drag<ã>o Alvo", 0x06, 0xF0
+  .stringn "*Naga de Ossos", 0x06, 0xF0
   .stringn ""
 
 str_521: ;diálogo 521
@@ -3069,7 +3069,7 @@ str_543: ;diálogo 543
   .stringn ""
 
 str_544: ;diálogo 544
-  .stringn "*Minot” de Bola", 0x06, 0xF0
+  .stringn "*Minot” Gladiador", 0x06, 0xF0
   .stringn ""
 
 str_545: ;diálogo 545
@@ -3113,7 +3113,7 @@ str_554: ;diálogo 554
   .stringn ""
 
 str_555: ;diálogo 555
-  .stringn "*Fant” de Simon", 0x06, 0xF0
+  .stringn "*Simorto", 0x06, 0xF0
   .stringn ""
 
 str_556: ;diálogo 556
@@ -3121,7 +3121,7 @@ str_556: ;diálogo 556
   .stringn ""
 
 str_557: ;diálogo 557
-  .stringn "*C<í>clope", 0x06, 0xF0
+  .stringn "*Ciclope", 0x06, 0xF0
   .stringn ""
 
 str_558: ;diálogo 558
@@ -3351,7 +3351,7 @@ str_614: ;diálogo 614
   .stringn ""
 
 str_615: ;diálogo 615
-  .stringn "*  Prendeu o Bracelete de Maxim na testa.", 0x06, 0xF0
+  .stringn "*  Prendeu o Bracelete de Maxim no braço.", 0x06, 0xF0
   .stringn ""
 
 str_616: ;diálogo 616
@@ -3423,7 +3423,7 @@ str_632: ;diálogo 632
   .stringn ""
 
 str_633: ;diálogo 633
-  .stringn "*Obteve", 0x06, 0xF0
+  .stringn "*Obteve ", 0x06, 0xF0
   .stringn ""
 
 str_634: ;diálogo 634
@@ -3457,7 +3457,7 @@ str_640: ;diálogo 640
   .stringn ""
 
 str_641: ;diálogo 641
-  .stringn "*Lojista"
+  .stringn "*Mercador"
 
 str_642: ;diálogo 642
   .stringn "*<TAG_17><TAG_18>Oh meu deus!", 0x06, 0xF0
@@ -3682,7 +3682,7 @@ str_679: ;diálogo 679
   .stringn ""
 
 str_680: ;diálogo 680
-  .stringn "* Música Tema do LOJISTA", 0x06, 0xF0
+  .stringn "* Música Tema do MERCADOR", 0x06, 0xF0
   .stringn ""
 
 str_681: ;diálogo 681
