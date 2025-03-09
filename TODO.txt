@@ -1,5 +1,6 @@
-- Fazer correções textuais dos prints tirados no anbernic, e das sugestões do Neko
 - Trocar copyright na tela-título, pra atualizar o ano de 2008 pra 2025
-- Editar créditos, de modo a mudar a seção que credita apenas eu e o anime no final
-- Ver com o Neko e o bMatSantos pra bolar uma splash-screen nova pra tradução do CHOD
-- Tornar a tradução compatível com hacks de aprimoramento, como o "Recolor" e o "Revenge of the Findesiecle"
+- Fazer ajustes menores na fonte pequena, como alinhar o cedilha minúsculo, e ver possibilidade de editar a VWF
+- Editar créditos, de modo a:
+  - Alterar "O Compositor de Sinfonia da Noite" para "Compositora de Sinfonia da Noite", já que Michiru Yamane é mulher.
+  - Mudar a seção que credita apenas eu e o anime no final
+- Pedir pro victoriemini fazer uma capa traduzida, igual foi pro CAOS e CDOS

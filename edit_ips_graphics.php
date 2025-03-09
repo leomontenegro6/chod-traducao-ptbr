@@ -1,7 +1,7 @@
 <?php
-copy('chod_graphics.ips', 'chod_moved_graphics.ips');
-$ips = fopen('chod_moved_graphics.ips', 'r+');
-$increment = 0x10;
+copy('chod_graphics.ips', 'chod_moved_graphics_16mb.ips');
+$ips = fopen('chod_moved_graphics_16mb.ips', 'r+');
+$increment = 0x90;
 
 function gotoIpsOffset($ips, $offset) {
     fseek($ips, $offset + 5);

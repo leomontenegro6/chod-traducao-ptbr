@@ -1,0 +1,197 @@
+===========================================================================================================
+Castlevania HoD: Revenge of the Findesiecle Deluxe+ Bloodlines Update
+USA Port and New Features By: sorrow
+===========================================================================================================
+Castlevania HoD: Revenge of the Findesiecle Deluxe+ continues with it's next major update, dubbed The Bloodlines Update.
+
+The Bloodlines Update adds TWO MORE Extra Characters to it's roster, welcoming John Morris and Eric Lecarde from Castlevania Bloodlines!
+
+Database match: Castlevania - Harmony of Dissonance (USA)
+Database: No-Intro: Game Boy Advance (v. 20180816-092117)
+File/ROM SHA-1: B90DA0D9BE0B3A0893CD9E2C399056BCF9579E21
+File/ROM CRC32: 88C1B562
+
+Castlevania - Harmony of Dissonance (USA) rom size on disk: 8.00 MB (8,388,608 bytes)
+
+Castlevania HoD: Revenge of the Findesiecle Deluxe+ - Bloodlines Update rom size on disk: 8.96 MB (9,396,224 bytes) (*)
+
+(*) means the rom size has been expanded after applying patch.
+
+-----------------------------------------------------------------------------------------------------------
+**EXTRA PLAYER CHARACTER PASSWORDS:
+ - SIMON: Classic Simon Belmont. The same seen in the boss rush mode.
+ - JULIUS: Julius Belmont from Castlevania - Aria Of Sorrow. Theme Song, Menu, Level-Up, Sub-Weapons and items are also available for Julius.
+ - MAXIM: Maxim Kischine from Castlevania - Harmony of Dissonance. Theme Song, Menu, Level-Up, Sub-Weapons and items are also available for Maxim.
+ - SIMONX: Enhanced Classic Simon. This one has a higher jump and can gain abilities.
+ - JUSTEX: Devil Juste. A special version of Juste with super speed. A remade sword substitutes his 
+   original whip.
+ - MEGAMAN: Megaman from the Megaman games.
+ - MARIO: Mario from the Super Mario games.
+ - J.MORRIS: John Morris from Castlevania - Bloodlines. Theme Song, Menu, Level-Up, Sub-Weapons and items are also available for John Morris.
+ - ELECARDE: Eric Lecarde from Castlevania - Bloodlines. Theme Song, Menu, Level-Up, Sub-Weapons and items are also available for Eric Lecarde.
+
+**INSTRUCTIONS FOR ALL EXTRA PLAYER MAGIC USE:
+ - Progress through the castle and obtain a Spell Book (does not matter which, as long as you get 1).
+ - Once you have obtained a Spell Book, Press Down+L+R to activate and Turn On the Spell Book (the 
+   background color of the subweapon will change colors - Red/Blue/Yellow/Green/Black).
+ - Once a Spell Book is Activated, Press Up+Attack to use the subweapon's spell.
+ - Up+L/R will cycle through each Spell Book if you have more than one (works only if a Spell Book is 
+   currently activated).
+
+-----------------------------------------------------------------------------------------------------------
+Current Version Notes:
+June 19, 2022: v2.2.47 - Castlevania HoD Revenge of the Findesiecle Deluxe+ Bloodlines Update
+
+Enhanced Findesiecle Features:
+
+*Added TWO more Player Characters, bringing the total amount of Extra Characters to 9!
+ - Character 8: Enter J.MORRIS in Name Entry and you will load John Morris from Bloodlines
+ - Character 9: Enter ELECARDE in Name Entry and you will load Eric Lecarde from Bloodlines
+ - Sound Effects from Bloodlines added to John Morris and Eric Lecarde for a more authentic experience!
+ - Edits made to ensure that Eric and John will have the same sound from Bloodlines for getting hit, regardless of them Standing, Ducking, or being in the Air.	
+ - John Morris, when equipped with Platinum/other one stone, will show the Graphic Attachment at the end of the attack sequences
+ - John Morris's crouching attack is a Battle Axe.
+ - Eric Lacarde's Dash has been edited to allow for use as an attack for Enemies [NOTE, this makes Eric a bit Overpowered as a character]
+ - Edits made so that Eric Lecarde has a different sound effect when pressing L/R for his Dash Attack
+ - Edits made so that Eric Lecarde uses a different animation sequence for Part 01 of his Super Jump ability as compared to Juste/Julius.
+   [This was done to allow for the sequence to flow more smoothly for Eric, which was not possible if sharing the same sequence as Juste/Julius.]
+ - Edits made so that John Morris and Eric Lecarde have their proper 16th palette color when they are setup to have similar ability progression to Juste.
+   [This allows for them to be able to use the Crush Stone weapon attachment.]
+
+*Added 16-Bit Era Style (SNES/Genesis) Konami Logo in the Intro, Konami symbol/colors by Jonata, KONAMI name/colors tweaked by sorrow (me, lol).
+
+*Added Revenge of the Findesiecle+ Title Screen Logo that Solid One created.
+
+*ALL Extra Characters now load the Intro Prologue after entering their respective Name at Name Entry for New Games.
+ - Text for the Intro Prologue was edited slightly to have Maxim "vaguely remembering" the various heroes that have defeated Dracula, to hopefully connect the Intro Prologue with all of the Extra Characters.
+
+*ALL Extra Characters should now be able to access Merchant.
+ - Edited the Event Text when meeting the Merchant for the first time by removing Juste's Name and Portrait and dialogue.  So instead of Juste asking the Merchant questions, it's just the Merchant speaking to the player, which makes it more appropriate when the other characters come across the Merchant.
+
+*Edits made so that some of the Extra Characters have a different song load for them during the Intro Prologue (Maxim, John Morris, and Eric Lecarde).
+
+*Edits made to allow the following characters the ability to load an in-game Menu:
+ - Juste (default), Julius (previously available in original Findesiecle hack)
+ - NEW: Maxim, John Morris, and Eric Lecarde.
+
+*Gave the above mentioned NEW characters the ability to load a Portrait when loading in-game Menu.
+
+*Gave the above mentioned NEW characters different graphics and palettes for their in-game Menu.
+	-Maxim will show Sword in Menu.
+	-Eric Lecarde will show Lance in Menu.
+	-Juste, Julius, and John Morris show Whip in Menu.
+
+*Edits made so that the characters that are able to load in-game Menus have different starting equipment
+	-Julius:	Walk Armor, Cipher's Charm, Mystic Brooch
+	-Maxim:		Kaiser Mail, Viking Helm, MK's Bracelet
+	-John Morris:	Fancy Bandana, Crested Band, Greaves
+	-Eric Lecarde:	Silk Cloak, Bangle, Silver Boots
+
+*In addition to Julius and Classic Simon, edits were made to allow different theme songs to play during the Entrance Area for Maxim, John Morris, and Eric Lecarde.
+ - Juste:	 Theme of Juste from Harmony of Dissonance
+ - Julius:	 Don't Wait Until Night/Heart of Fire from Haunted Castle
+ - Maxim:	 Theme of Maxim from Harmony of Dissonance
+ - John Morris:	 Reincarnated Souls from Bloodlines
+ - Eric Lecarde: Iron Blue Intention from Bloodlines
+
+***********************************************************************************
+
+Quality of Life Updates:
+
+*Classic Simon starting level has been brought down to 1.
+
+*Fixed a bug where the Richter/Alucard Figures were swapped when placed in to the Furniture Room (Placing the Richter Figure actually put up Alucard in to the room, and vice verca). Found by Masked DeDeDe
+
+*Made a small tweak to allow for SimonX (in addition to Classic Simon) to be able to use the "going up/down stairs animation sequence."
+
+*Restored Juste and Maxim's Standing/Ducking Frames when they get hit on the ground, instead of getting knocked back the way that Classic Simon Does.
+ - With this update, characters have been split in to two groups:
+	
+	"Classic Simon," which includes Classic Simon, SimonX, Megaman, and Mario
+	
+	"Non-Classic Simon," which includes Juste, Maxim, Julius, JusteX, John Morris, and Eric Lecarde
+
+*Replaced "Nani sound" pointer with the same sound as the Standing Get Hit, to make it more universal for any other Extra Characters who trigger the same sound effect.
+ - Nani sample was deleted to make space.
+
+*The below Sound Edit was done in order to prevent static/distortion from some characters when getting hit, the original sound is pretty annoying to hear constantly:
+ - MUTE the sound for the "Classic SIMON" Characters getting hit
+ - MUTED the sound for the "NON-Classic SIMON" Characters getting hit in the AIR and DUCKING.
+ - The sound for the "NON-Classic SIMON" Characters getting hit while STANDING was left due to the fact that, when muted, the game plays a sound Specific to Juste, which would be odd to hear for the other characters.
+
+*Changed the "Land from getting hit sound" to become the same sound used for Land from Jump, which is better than the random THUD sound it was before.
+
+*Edits made to allow for SimonX, John Morris, and Eric Lecarde to have the same Dying Sequence as Classic Simon (where on the last hit, they get knocked back and the Dying Animation plays upon landing along with a Death Song) vs the other characters, who fly in the air with Blood Splatter.
+
+*Edits made so that Juste/JusteX/John Morris/Eric Lecarde have the ability to collect Sacred Fist drops through out the Castle.
+ - Replaced the Oora Oora Oora Sample Pointer with one that is more appropriate to hear for characters who are NOT Juste/JusteX if they are able to use the Sacred Fist Sub-weapon.
+
+*Restored original HUD palette that had the magic meter be lime green then change blue when spellbook activated. - Suggested by Masked DeDeDe
+
+*Added a 5th palette index for the palette animations used in the Furniture Room
+ - This was done in order to fix Hammer as he appeared in the room.  He originally was set to a palette that gave him Red Fatigues, this 5th palette now fixes him so he looks more proper in his Green Fatigues.
+
+*Added iPatix's Custom Sound Mixer to allow for a cleaner sound as well as use of Compressed Samples.
+
+*Edits made to allow a different song to load during Maxim Boss fight at the end of the game (this is for a future version, this was done for setup only, and the default Boss song still plays currently).
+
+***********************************************************************************
+
+GAINING FREE SPACE NOTES:
+
+ - Deleted various Juste Voice Samples that were used previously for his Magic attacks (since the Juste Voice sounds used for Magic Casting were changed in v2.0 to be more appropriate for all characters when casting magic, this data was wasted space).
+
+*Julius's theme was changed to a cleaner version of the song, and compressed, which created some new Free Space to utilize.
+
+*Optimized rom space by moving data around and utilizing freespace as efficient as possible.  Going forward, new edits should now be a cleaner use of Freespace.
+
+***********************************************************************************
+
+NOTE: Older ReadMe files for previous versions can be found in the zip.
+
+-----------------------------------------------------------------------------------------------------------
+Castlevania HoD Revenge of the Findesiecle Deluxe+ Project Page: 
+
+http://www.romhacking.net/forum/index.php?topic=32390.0
+
+ - The Original Post of the Project Page will have the any relavent screenshots and gifs of the current 
+   version's features.  
+ - Please visit CV Romhacking Discord for mroe frequent updates (PM me for invite link). 
+
+Future Goals still Include:
+ - Compatibility with a big update to my Harmony of Dissonance Music Overhaul patch.
+ - More new characters to choose from.
+ - Support for the Castlevania - Harmony of Dissonance (Europe)
+
+-----------------------------------------------------------------------------------------------------------
+***Special Thanks for v2.2.48***
+
+Hiroyuki:
+ - Helped reduce Original John Morris sprites from Bloodlines down to HoD appropriate size.
+
+Sorrow:
+ - Additional John Morris Sprites; Reduce Original Eric Lecarde sprites from Bloodlines down to HoD appropriate size, and additional Eric Lecarde Sprites.
+
+Darian64:
+ - The Kojima style Fan Art for both John Morris and Eric, which were used for their Menu Portraits.
+
+SolidOne:
+ - Findesiecle+ Title Screen.
+
+JonataGuitar:
+ - Konami Logo, Menu Palettes, Reducing Portrait GFX for John and Eric, Findesiecle+ Subtitle for Intro Prologue.
+
+Masked DeDeDe:
+ - Suggested using the original Hud Palette for Magic Bar, instead of the ugly pea green.
+ - Also pointed out a bug where the Richter/Alucard Figures were swapped when placed in to the Furniture Room (Placing the Richter Figure actually put up Alucard in to the room, and vice verca).
+ - Provided Sprite Sheet for a Future Character (NOT YET included, next time!)
+ - John Morris Hitbox Tweak suggestions.
+
+Serbagz:
+ - John Morris Hitbox Tweak suggestions
+
+iPatix:
+ - Helping to implement his Custom Sound Mixer to work with Harmony of Dissonance.
+
+DevAnj and Raygun:
+ - Helping me on how to find the Index for Maxim Boss Fight Song.  Their insight helped me figure out how to tweak the asm code to allow for a different song to play during the Maxim Fight (for future use).

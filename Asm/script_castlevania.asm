@@ -1,8 +1,10 @@
+; Script de inserção do script traduzido na rom.
+; Criado por cortesia do Breno
 .gba
 .open "chod.gba", 0x08000000
 .loadtable "./Tabelas/script_castlevania.tbl"
 
-org 0x087EECE4
+org 0x08FEECE4
 str_001: ;diálogo 1
   .stringn "*Juste"
 

@@ -1,0 +1,161 @@
+===========================================================================================================
+Castlevania HoD: Revenge of the Findesiecle Deluxe+ Simons Update
+USA Port and New Features By: sorrow
+===========================================================================================================
+Castlevania HoD: Revenge of the Findesiecle Deluxe+ continues with it's next major update, dubbed The Simon(s) Update.
+
+The Simon(s) Update adds FIVE MORE Extra Characters to it's roster, welcoming two color variants of Simon Belmont from Super Castlevania IV, Simon Belmont from Haunted Castle, Simon Belmont NES Recolor by JonataGuitar, and AxeArmor!
+
+Database match: Castlevania - Harmony of Dissonance (USA)
+Database: No-Intro: Game Boy Advance (v. 20180816-092117)
+File/ROM SHA-1: B90DA0D9BE0B3A0893CD9E2C399056BCF9579E21
+File/ROM CRC32: 88C1B562
+
+Castlevania - Harmony of Dissonance (USA) rom size on disk: 8.00 MB (8,388,608 bytes)
+
+Castlevania HoD: Revenge of the Findesiecle Deluxe+ - Bloodlines Update rom size on disk: 10.9 MB (11,485,184 bytes) (*)
+
+(*) means the rom size has been expanded after applying patch.
+
+-----------------------------------------------------------------------------------------------------------
+
+Enter the below Passwords to use the different characters:
+
+**NEW EXTRA PLAYER CHARACTER PASSWORDS:
+ - SIMON.IV: SNES Style Simon Belmont from Super Castlevania IV. Theme Song, Menu, Level-Up, Sub-Weapons and items are also available for this character.
+ - SIMON.II: SNES Style Simon Belmont with colors inspired by Castlevania 2. Theme Song, Menu, Level-Up, Sub-Weapons and items are also available for this character.
+ - SIMON.HC: Arcade Style Simon Belmont from Haunted Castle. Theme Song, Menu, Level-Up, Sub-Weapons and items are also available for this character.
+ - SIMON.JG: NES Style Simon Belmont Recolor by JonataGuitar. Theme Song, Menu, Level-Up, Sub-Weapons and items are also available for this character.
+ - AXEARMOR: Axe Armor from various Castlevania games. Menu, Level-Up, Sub-Weapons and items are also available for this character.
+ - J.MORRIS: John Morris from Castlevania - Bloodlines. Theme Song, Menu, Level-Up, Sub-Weapons and items are also available for John Morris.
+ - ELECARDE: Eric Lecarde from Castlevania - Bloodlines. Theme Song, Menu, Level-Up, Sub-Weapons and items are also available for Eric Lecarde.
+
+**Legacy EXTRA PLAYER CHARACTER PASSWORDS:
+ - SIMON: Classic Simon Belmont. The same seen in the boss rush mode.
+ - JULIUS: Julius Belmont from Castlevania - Aria Of Sorrow. Theme Song, Menu, Level-Up, Sub-Weapons and items are also available for Julius.
+ - MAXIM: Maxim Kischine from Castlevania - Harmony of Dissonance. Theme Song, Menu, Level-Up, Sub-Weapons and items are also available for Maxim.
+ - SIMONX: Enhanced Classic Simon. This one has a higher jump and can gain abilities.
+ - JUSTEX: Devil Juste. A special version of Juste with super speed. A remade sword substitutes his original whip.
+ - MEGAMAN: Megaman from the Megaman games.
+ - MARIO: Mario from the Super Mario games.
+
+-----------------------------------------------------------------------------------------------------------
+Current Version Notes:
+February 26, 2023: v2.3.75 - Castlevania HoD Revenge of the Findesiecle Deluxe+ Simons Update
+
+Enhanced Findesiecle Features:
+
+*Added FIVE more Player Characters, bring the total amount of characters to choose from to 14!
+
+ - Character 10: Enter SIMON.IV in Name Entry and you will load Simon Belmont in the style of Super Castlevania IV!
+ - Character 11: Enter SIMON.II in Name Entry and you will load Simon Belmont in the style of Super Castlevania IV but with Colors inspired by Castlevania II!
+- Character 12: Enter SIMON.HC in Name Entry and you will load Simon Belmont in the style of Haunted Castle!
+- Character 13: Enter SIMON.JG in Name Entry and you will load NES Simon Belmont with a new Recolor by JonataGuitar!
+- Character 14: Enter AXEARMOR in Name Entry and you will load Axe Armor!
+
+*Sound Effects from Super Castlevania IV and Haunted Castle were added to the SNES Simons and Haunted Castle Simon respectively for a more authentic experience!
+
+*The following songs were added from Super Castlevania IV and Haunted Castle for the Simon Characters:
+
+- Intro Theme song from Super Castlevania IV added to be played during any of the new Simons' Prologue Scroll.
+- Theme of Simon Belmont from Super Castlevania IV (SIMON.IV's Entrance Theme).
+- Bloody Tears from Super Castlevania IV (SIMON.II's Entrance Theme).
+- Don't Wait Until Night from Haunted Castle (SIMON.HC's Entrance Theme).
+
+*SNES Simons can equip with Platinum/Steel Tip and show the Graphic Attachment at the end of the attack sequences.
+
+*Edits made to allow SIMON.IV and SIMON.II to be able to use the Whip Dangle Ability.
+
+*Edits made so that ALL of Axe Armor's subweapons and Magic use the Axe.
+
+*Edits made to allow ALL characters the ability to load an in-game Menu:
+ - Note, some of the legacy characters do not have a portrait.
+
+*Edits made so that ALL Extra Characters now have sprites for the Crush Stone item.
+
+*Edits made so that ALL Extra Characters can now use Crush Stone.
+
+*Edits made and Sprites added for megaman to have dash ability.
+
+*Edited some of the weapon equipment text to reflect equipping item to a "weapon" rather than a whip.
+
+
+*Gave the above mentioned NEW characters different graphics and palettes for their in-game Menu.
+	-Maxim will show Sword in Menu.
+	-Eric Lecarde will show Lance in Menu.
+	-Juste, Julius, and John Morris show Whip in Menu.
+
+*Edits made so that the characters that are able to load in-game Menus have different starting equipment
+	-Julius:	Walk Armor, Cipher's Charm, Mystic Brooch
+	-Maxim:		Kaiser Mail, Viking Helm, MK's Bracelet
+	-John Morris:	Fancy Bandana, Crested Band, Greaves
+	-Eric Lecarde:	Silk Cloak, Bangle, Silver Boots
+
+*In addition to Julius and Classic Simon, edits were made to allow different theme songs to play during the Entrance Area for Maxim, John Morris, and Eric Lecarde.
+ - Juste:	 Theme of Juste from Harmony of Dissonance
+ - Julius:	 Don't Wait Until Night/Heart of Fire from Haunted Castle
+ - Maxim:	 Theme of Maxim from Harmony of Dissonance
+ - John Morris:	 Reincarnated Souls from Bloodlines
+ - Eric Lecarde: Iron Blue Intention from Bloodlines
+
+***********************************************************************************
+
+GAINING FREE SPACE NOTES:
+
+*Rearranged data to better optimize usage of the rom and create more freespace.
+
+*Deleted some more audio samples that are no longer used to create more freespace.
+
+***********************************************************************************
+
+NOTE: Older ReadMe files for previous versions can be found in the zip.
+
+-----------------------------------------------------------------------------------------------------------
+Castlevania HoD Revenge of the Findesiecle Deluxe+ Project Page: 
+
+http://www.romhacking.net/forum/index.php?topic=32390.0
+
+ - The Original Post of the Project Page is in dire need to an update, but the goal is to have the any relavent screenshots and gifs of the current version's features.  
+ - Please visit CV Romhacking Discord for more frequent updates (PM me for invite link). 
+
+Future Goals still Include:
+ - Compatibility with a big update to my Harmony of Dissonance Music Overhaul patch.
+ - More new characters to choose from.
+ - Support for the Castlevania - Harmony of Dissonance (Europe)
+
+-----------------------------------------------------------------------------------------------------------
+***Special Thanks for v2.3.75***
+
+sorrow (me, lol):
+ - Maintaining any and all future updates for Findesiecle Deluxe+ .
+ - Haunted Castle Simon Sprites, SNES Simon Sprites (reduced in size from their respective game sprites).
+
+jupiterclimb:
+ - Suggesting to give Megaman the Dash Ability.
+ - Taking the time to do a few test runs of the new characters and features, and showcasing them on his channels.  
+
+Check him out below!
+ - https://www.twitch.tv/jupiterclimb
+ - https://www.youtube.com/c/jupiterclimb
+ - https://twitter.com/JupiterClimb
+
+Darian64:
+ - The Kojima style Fan Art for both John Morris, Eric Lecarde, Axe Armor, which were used for their Menu Portraits.
+
+SolidOne:
+ - Findesiecle+ Title Screen.
+
+JonataGuitar:
+ - Konami Logo, Menu Palettes, Portrait Palettes, Reducing Portrait GFX for John/Eric/Axe Armor/Simon, Findesiecle+ Subtitle for Intro Prologue.
+-SNES Simon II and IV Palettes, NES JG Simon Recolor, Haunted Castle Simon Palette.
+
+Masked DeDeDe:
+ - Suggested using the original Hud Palette for Magic Bar, instead of the ugly pea green.
+ - Also pointed out a bug where the Richter/Alucard Figures were swapped when placed in to the Furniture Room (Placing the Richter Figure actually put up Alucard in to the room, and vice verca).
+ - Provided Sprite Sheet for Axe Armor.
+
+iPatix:
+ - Helping to implement his Custom Sound Mixer to work with Harmony of Dissonance.
+
+DevAnj and Raygun:
+ - Helping me on how to find the Index for Maxim Boss Fight Song.  Their insight helped me figure out how to tweak the asm code to allow for a different song to play during the Maxim Fight (for future use).

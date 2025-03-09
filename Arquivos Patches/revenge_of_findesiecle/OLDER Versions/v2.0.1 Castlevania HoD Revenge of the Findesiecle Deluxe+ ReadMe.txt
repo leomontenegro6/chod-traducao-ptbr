@@ -1,0 +1,188 @@
+===========================================================================================================
+Castlevania HoD: Revenge of the Findesiecle Deluxe+
+USA Port and New Features By: sorrow
+===========================================================================================================
+Originally envisioned as a simple port of Castlevania HOD: Revenge of the Findesiecle (J)'s features to 
+Castlevania - Harmony of Dissonance (USA) so they can be enjoyed in English, this project has now grown 
+BEYOND that initial goal.
+
+Now dubbed with a new name, Castlevania HoD: Revenge of the Findesiecle Deluxe+ not only contains the 
+original features of the USA port, it has been further enhanced with new enhancements, sprites, and 
+features!
+
+Database match: Castlevania - Harmony of Dissonance (USA)
+Database: No-Intro: Game Boy Advance (v. 20180816-092117)
+File/ROM SHA-1: B90DA0D9BE0B3A0893CD9E2C399056BCF9579E21
+File/ROM CRC32: 88C1B562
+
+Castlevania - Harmony of Dissonance (USA) rom size: 8388608
+
+Castlevania HoD: Revenge of the Findesiecle Deluxe+ rom size: 8425472 (*)
+
+(*) means the rom size has been expanded after applying patch.
+
+-----------------------------------------------------------------------------------------------------------
+A general description of the original Japanese hack is described below:
+
+Castlevania HOD: Revenge of the Findesiecle (J) is a comprehensive hack for Castlevania - Byakuya no 
+Concerto (J) on the Gameboy Advance done by PUNKEMNX & TonyJih.
+
+Their original hack added a few additional sprites for the original characters, gameplay tweaks, as well 
+as the ability to load additional custom characters.
+
+-----------------------------------------------------------------------------------------------------------
+**EXTRA PLAYER CHARACTER PASSWORDS:
+ - JULIUS: Julius Belmont from Castlevania - Aria Of Sorrow. Menu, level up, sub-weapons and items 
+   functions are also available for Julius.
+ - SIMON: Classic Simon Belmont. The same seen in the boss rush mode.
+ - SIMONX: Enhanced Classic Simon. This one has a higher jump and can gain abilities.
+ - JUSTEX: Devil Juste. A special version of Juste with super speed. A remade sword substitutes his 
+   original whip.
+ - MEGAMAN: Megaman from the Megaman games.
+ - MARIO: Mario from the Super Mario games.
+
+**INSTRUCTIONS FOR ALL EXTRA PLAYER MAGIC USE:
+ - Progress through the castle and obtain a Spell Book (does not matter which, as long as you get 1).
+ - Once you have obtained a Spell Book, Press Down+L+R to activate and Turn On the Spell Book (the 
+   background color of the subweapon will change colors - Red/Blue/Yellow/Green/Black).
+ - Once a Spell Book is Activated, Press Up+Attack to use the subweapon's spell.
+ - Up+L/R will cycle through each Spell Book if you have more than one (works only if a Spell Book is 
+   currently activated).
+
+-----------------------------------------------------------------------------------------------------------
+Current Version Notes:
+September 29, 2021: v2.0.1 - Castlevania HoD Revenge of the Findesiecle Deluxe+
+ - Small Bug Fix Update to address the issues with some of Julius's Audio Clips getting cut off.
+ - Also includes an Optional Add-On Patch to help balance the Boss Rush Mode provided by AceEarly1993.
+	*NOTE* to use the Optional Add-On Patch, your rom must be PRE-PATCHED with one of the 
+	Findesiecle patches (v1.0.2 or v2.0.1) and THEN apply the Optional Add-On Patch for 
+	it to work properly.
+
+April 02-August 07, 2021: v2.0 - Castlevania HoD Revenge of the Findesiecle Deluxe+
+ - Player Maxim Enhancements, listed as follows:
+	--Battle Stance animation from Boss Maxim.
+	--Running animation from Boss Maxim.
+	--Taunt/Beckon animation from Boss Maxim (done by Press/Hold Up Button).
+	--Idle animation where Maxim crosses his arms at the screen and wonders what's taking so long.
+	--Added an additional jump frame that Boss Maxim had to clean up Player Maxim's Jumping animation.
+	--Added additional frames to Maxim's Magic Summon animation sequence, so that after he turns his 
+	  back to the screen, he will raise his arm as a gesture.
+	--Pointing Up animation from Boss Maxim (used for some Magic Spells).
+	--Gave Maxim a Sacred Fist subweapon/Magic Spell animation sequence (Can only be used in potential 
+	  Maxim Story Mode).
+	--Gave Maxim a Crush Stone animation sequence, Standing and Ducking versions (Can only be used in
+	  potential Maxim Story Mode).
+ - Player SimonX Enhancements, listed as follows:
+	--Forward/Backward Dash Sprite Frames.
+	--Enabled Forward/Backward Dash for SimonX.
+	--Straight Down Jump Kick Sprite Frame.
+	--Diagonal Down Jump Kick Sprite Frame.
+	--Slide Sprite Frame.
+	--Fixed Hitboxes for both Jump Kicks.
+	--Edited Slide's hitbox to match the new Sprite Frame.
+ - Various Color Fixes for Other Extra Player Characters, listed as follows:
+	--Classic Simon now has a Gray Whip instead of sharing colors with his body.
+	--SimonX now has a Gray Whip instead of sharing colors with his body.
+	--Fixed Blood Splatter Color for Maxim during player death sequence (it is now Red, previously
+	  Gray/Yellow).
+	--Fixed Blood Splatter Color for SimonX during player death sequence (it is now Red, previously
+	  Brown).
+	--Fixed Blood Splatter Color for Megaman during player death sequence (it is now a Dark Yellow to
+	  represent Robot Oil, previously Purple).
+	--Fixed Blood Splatter Color for Mario during player death sequence (it is now Red, previously 
+	  Purple).
+ - Various Restorations and Enhancements for Extra Characters, listed as follows:
+	--Restored original Maxim Mode's Blood Splatter Sprites for player death sequence (Also used for 
+	  the other Extra Character death sequences).
+	--Restored Maxim's Blue Triangle Flames that appear when he does the Jump Kick attacks.
+	--Gave Maxim the ability to use Magic Spells for Shuriken subweapon (See Instructions for use).
+	--Gave Julius, JusteX, and SimonX the ability to use Magic Spells for their subweapons (See 
+	  Instructions for use).
+	--Restored Maxim Mirage GFX Pointer to fix Broken Graphics for Maxim Mirage sequence).
+	--Removed multiple Juste voices from all associated Spell Book Magic so that the Other Extra 
+	  Characters would not sound like Juste when castic Magic Spells.
+	--Julius's Grand Cross GFX Pointer put in place of Juste's Bolt Cross and they now Share it for 
+	  Bolt Cross Spell (Necessary to fix Maxim Mirage sequence's Broken Graphics).
+	--Megaman's pellet shot distance was increased to travel to the end of the screen.
+	--Megaman's pellet shot hitbox was edited to reflect the longer shot distance.
+ - Player Classic Simon Enhancements, listed as follows:
+	--Adjusted Y Acceleration (for Jump Height) to allow progress to Marble Corridor from Entrance.
+	--Adjusted Y Acceleration for descending from a jump (to prevent Simon from having a heavy 
+	  landing from a normal jump).
+	--Adjusted X Velocity During Ascent from a jump, to allow for a beter chance to make akward 
+	  horizontal jumps in some areas of the castle (Example: beginning of Marble Corridor, the room 
+	  with the wooden box has a horizontal jump across to the box).
+	--Enabled Double Jump for Classic Simon (decision was made in order to ease castle progression).
+	--Adjusted Extra Jump Y Force to match SimonX to allow 2nd Jump from Double Jump to be useful 
+	  (Classic Simon's Default settings made the 2nd jump useless for progression).
+	--Enabled Super Jump for Classic Simon (decision was made in order to ease castle progression).
+	--Enabled Slide for Classic Simon (decision was made in order to ease castle progression).
+	--Removed Hitbox for Classic Simon's Slide (again, it is only for castle progression, not 
+	  attacking).
+	**NOTE** When using Classic Simon, in the Entrance Area room with the Zombies, DO NOT drop down 
+		 to the room below attempting to progress!  Classic Simon CAN NOT get back up from a 
+		 certain point in that room UNTIL he has gained the Double Jump Ability!
+
+
+-----------------------------------------------------------------------------------------------------------
+Castlevania HoD Revenge of the Findesiecle Deluxe+ Project Page: 
+
+http://www.romhacking.net/forum/index.php?topic=32390.0
+
+ - The Original Post of the Project Page will have the any relavent screenshots and gifs of the current 
+   version's features.  
+ - Please visit the Project Page for continued progress. 
+
+Future Goals still Include:
+ - Compatibility with a big update to my Harmony of Dissonance Music Overhaul patch.
+ - Different characters to choose from.
+ - Support for the Castlevania - Harmony of Dissonance (Europe)
+
+-----------------------------------------------------------------------------------------------------------
+Older Version History:
+
+April 2, 2021: v1.0.1 - Castlevania HoD Revenge of the Findesiecle (USA)
+ - Fixed a couple of song names in Sound Test Mode: Prologue Track, and Item Room Collection Track
+ - Fixed the text of following Items in the Items Menu Screen: 
+	--Dracula's Statue
+	--Alucard's Statue
+	--Richter's Statue
+	--Alucard's Figure
+	--Richter's Figure
+ - Fixed the bug where Skeleton Cave and Aqueduct of Dragons songs were swapped in game, they play in the 
+   correct areas now.
+
+March 30, 2021: v1.0 - Castlevania HoD Revenge of the Findesiecle (USA)
+ - Initial release
+ - USA Port allows for the features of HoD Findesiecle (J) to be added to the USA version of Castlevania - 
+   Harmony of Dissonance.
+ - Extra Character Julius Belmondo Menu screen name has been localized to Julius Belmont.
+ - ROCKMAN password has been localized to MEGAMAN to load that character.
+
+-----------------------------------------------------------------------------------------------------------
+***Special Thanks***
+
+PUNKEMNX & TonyJih:
+ - For creating the original hack and all of its amazing extras.
+ - For creating beta test versions during their original hack development and getting feedback.
+	
+raygun:
+ - Final troubleshooting assistance that helped me figure out how to complete the port.
+ - Figuring out how to go about changing the character passwords.
+
+LagoLunatic:
+ - For creating DSVEdit, which was a big help in finding GFX locations as well as clarifying other rom 
+   Data.
+ - Implemented an auto-select Sprite Part feature in the latest source code for DSVEdit, which made adding 
+   new Sprite Frames for animation much more efficient.
+ - Implemented a Player Editor for HoD in the latest source code for DSVEdit, which helped with the 
+   necessary Classic Simon gameplay tweaks.
+
+Aceearly1993:
+ - Finding some errors in the text of some Item Descriptions.
+ - Finding an error with two of the Area songs being switched.
+ - Providing beta version of Findesiecle (J), which helped me figure Maxim's and Extra Character Magic.
+ - Providing Optional Add-On patch for Boss Rush balancing.
+
+Masked Dedede:
+ - Provided Sprites to be used for SimonX and Simon Characters: Dash, Jump Kicks, and Slide.
