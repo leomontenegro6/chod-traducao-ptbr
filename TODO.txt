@@ -1,4 +1,3 @@
-- Trocar copyright na tela-título, pra atualizar o ano de 2008 pra 2025
 - Fazer ajustes menores na fonte pequena, como alinhar o cedilha minúsculo, e ver possibilidade de editar a VWF
 - Editar créditos, de modo a:
   - Alterar "O Compositor de Sinfonia da Noite" para "Compositora de Sinfonia da Noite", já que Michiru Yamane é mulher.

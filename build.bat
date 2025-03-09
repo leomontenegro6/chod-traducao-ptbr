@@ -28,8 +28,9 @@ IF "%1"=="-music_overhaul" (
 echo ==Expandindo a rom para 16mb==
 .\Ferramentas\armips.exe .\Asm\expansor_rom.asm
 
-echo ==Aplicando IPS de graficos editados.==
+echo ==Aplicando patches de graficos editados.==
 .\Ferramentas\flips.exe --apply .\chod_moved_graphics_16mb.ips .\chod.gba
+call inserir_novos_graficos.bat
 
 echo ==Inserindo splash screen.==
 .\Ferramentas\armips.exe .\Asm\splash_screen.asm
