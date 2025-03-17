@@ -30,7 +30,7 @@ str_008: ;diálogo 8
   .stringn "*Dracula"
 
 str_009: ;diálogo 9
-  .stringn "*Alma do Dr?cula"
+  .stringn "*Alma do Dr<á>cula"
 
 str_010: ;diálogo 10
   .stringn "*---"
@@ -1063,7 +1063,7 @@ str_072: ;diálogo 72
   .stringn ""
 
 str_073: ;diálogo 73
-  .stringn "*Armad” de L?tex", 0x06, 0xF0
+  .stringn "*Armad” de L<á>tex", 0x06, 0xF0
   .stringn ""
 
 str_074: ;diálogo 74
@@ -1167,11 +1167,11 @@ str_098: ;diálogo 98
   .stringn ""
 
 str_099: ;diálogo 99
-  .stringn "*Armad” M?gica", 0x06, 0xF0
+  .stringn "*Armad” M<á>gica", 0x06, 0xF0
   .stringn ""
 
 str_100: ;diálogo 100
-  .stringn "*Cota C?iser", 0x06, 0xF0
+  .stringn "*Cota C<á>iser", 0x06, 0xF0
   .stringn ""
 
 str_101: ;diálogo 101
@@ -1231,7 +1231,7 @@ str_114: ;diálogo 114
   .stringn ""
 
 str_115: ;diálogo 115
-  .stringn "*Wculos Noturnos", 0x06, 0xF0
+  .stringn "*<ó>culos Noturnos", 0x06, 0xF0
   .stringn ""
 
 str_116: ;diálogo 116
@@ -1347,7 +1347,7 @@ str_143: ;diálogo 143
   .stringn ""
 
 str_144: ;diálogo 144
-  .stringn "*Elmo Nwrdico", 0x06, 0xF0
+  .stringn "*Elmo N<ó>rdico", 0x06, 0xF0
   .stringn "**"
 
 str_145: ;diálogo 145
@@ -1483,7 +1483,7 @@ str_177: ;diálogo 177
   .stringn ""
 
 str_178: ;diálogo 178
-  .stringn "*Punho C?iser", 0x06, 0xF0
+  .stringn "*Punho C<á>iser", 0x06, 0xF0
   .stringn ""
 
 str_179: ;diálogo 179
@@ -1507,7 +1507,7 @@ str_183: ;diálogo 183
   .stringn ""
 
 str_184: ;diálogo 184
-  .stringn "*Colar M?gico", 0x06, 0xF0
+  .stringn "*Colar M<á>gico", 0x06, 0xF0
   .stringn ""
 
 str_185: ;diálogo 185
@@ -1641,7 +1641,7 @@ str_217: ;diálogo 217
   .stringn ""
 
 str_218: ;diálogo 218
-  .stringn "*Relwgio Alto", 0x06, 0xF0
+  .stringn "*Rel<ó>gio Alto", 0x06, 0xF0
   .stringn ""
 
 str_219: ;diálogo 219
@@ -1649,7 +1649,7 @@ str_219: ;diálogo 219
   .stringn ""
 
 str_220: ;diálogo 220
-  .stringn "*R?dio Velho", 0x06, 0xF0
+  .stringn "*R<á>dio Velho", 0x06, 0xF0
   .stringn ""
 
 str_221: ;diálogo 221
@@ -1677,7 +1677,7 @@ str_226: ;diálogo 226
   .stringn ""
 
 str_227: ;diálogo 227
-  .stringn "*Vaso Diabwlico", 0x06, 0xF0
+  .stringn "*Vaso Diab<ó>lico", 0x06, 0xF0
   .stringn ""
 
 str_228: ;diálogo 228
@@ -1689,11 +1689,11 @@ str_229: ;diálogo 229
   .stringn ""
 
 str_230: ;diálogo 230
-  .stringn "*X<í>cara de Ch?", 0x06, 0xF0
+  .stringn "*X<í>cara de Ch<á>", 0x06, 0xF0
   .stringn ""
 
 str_231: ;diálogo 231
-  .stringn "*Bule de Ch?", 0x06, 0xF0
+  .stringn "*Bule de Ch<á>", 0x06, 0xF0
   .stringn ""
 
 str_232: ;diálogo 232
@@ -1701,15 +1701,15 @@ str_232: ;diálogo 232
   .stringn ""
 
 str_233: ;diálogo 233
-  .stringn "*Est?tua Herwica", 0x06, 0xF0
+  .stringn "*Est<á>tua Her<ó>ica", 0x06, 0xF0
   .stringn ""
 
 str_234: ;diálogo 234
-  .stringn "*Est?tua da Deusa", 0x06, 0xF0
+  .stringn "*Est<á>tua da Deusa", 0x06, 0xF0
   .stringn ""
 
 str_235: ;diálogo 235
-  .stringn "*Est?tua S?bia", 0x06, 0xF0
+  .stringn "*Est<á>tua S<á>bia", 0x06, 0xF0
   .stringn ""
 
 str_236: ;diálogo 236
@@ -1721,7 +1721,7 @@ str_237: ;diálogo 237
   .stringn ""
 
 str_238: ;diálogo 238
-  .stringn "*Fonwgrafo", 0x06, 0xF0
+  .stringn "*Fon<ó>grafo", 0x06, 0xF0
   .stringn ""
 
 str_239: ;diálogo 239
@@ -1757,7 +1757,7 @@ str_246: ;diálogo 246
   .stringn ""
 
 str_247: ;diálogo 247
-  .stringn "*Arm?rio", 0x06, 0xF0
+  .stringn "*Arm<á>rio", 0x06, 0xF0
   .stringn ""
 
 str_248: ;diálogo 248
@@ -2935,7 +2935,7 @@ str_509: ;diálogo 509
   .stringn ""
 
 str_510: ;diálogo 510
-  .stringn "*Arah?bequi", 0x06, 0xF0
+  .stringn "*Arah<á>bequi", 0x06, 0xF0
   .stringn ""
 
 str_511: ;diálogo 511
@@ -3039,7 +3039,7 @@ str_535: ;diálogo 535
   .stringn ""
 
 str_536: ;diálogo 536
-  .stringn "*Gwrgone", 0x06, 0xF0
+  .stringn "*G<ó>rgone", 0x06, 0xF0
   .stringn ""
 
 str_537: ;diálogo 537
@@ -3075,7 +3075,7 @@ str_544: ;diálogo 544
   .stringn ""
 
 str_545: ;diálogo 545
-  .stringn "*Legiao C?daver", 0x06, 0xF0
+  .stringn "*Legiao Cad<á>ver", 0x06, 0xF0
   .stringn ""
 
 str_546: ;diálogo 546
@@ -3107,7 +3107,7 @@ str_552: ;diálogo 552
   .stringn ""
 
 str_553: ;diálogo 553
-  .stringn "*Esquel” Di?fano", 0x06, 0xF0
+  .stringn "*Esquel” Di<á>fano", 0x06, 0xF0
   .stringn ""
 
 str_554: ;diálogo 554
@@ -3131,11 +3131,11 @@ str_558: ;diálogo 558
   .stringn ""
 
 str_559: ;diálogo 559
-  .stringn "*Alma do Dr?cula", 0x06, 0xF0
+  .stringn "*Alma do Dr<á>cula", 0x06, 0xF0
   .stringn ""
 
 str_560: ;diálogo 560
-  .stringn "*Alma do Dr?cula", 0x06, 0xF0
+  .stringn "*Alma do Dr<á>cula", 0x06, 0xF0
   .stringn ""
 
 str_561: ;diálogo 561

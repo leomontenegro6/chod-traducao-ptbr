@@ -1,5 +1,2 @@
-- Fazer ajustes menores na fonte pequena, como alinhar o cedilha minúsculo, e ver possibilidade de editar a VWF
-- Editar créditos, de modo a:
-  - Alterar "O Compositor de Sinfonia da Noite" para "Compositora de Sinfonia da Noite", já que Michiru Yamane é mulher.
-  - Mudar a seção que credita apenas eu e o anime no final
 - Pedir pro victoriemini fazer uma capa traduzida, igual foi pro CAOS e CDOS
+- Pedir pro Neko atualizar a splash, colocando denim e victoriemini na seção de agradecimentos
