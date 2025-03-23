@@ -57,10 +57,10 @@ Esta revisão, de 2025, conta com as seguintes novidades:
   [li]Correções textuais pós-reforma gramatical de 2009 (remoção de tremas e outras palavras acentuadas).[/li]
   [li]Incluída splash-screen no começo do jogo.[/li]
   [li]Tornada a tradução compatível com vários hacks de aprimoramento, tais como:[list]
-    [li][url=https://www.romhacking.net/hacks/7086/]Recolor[/li]
-    [li][url=https://www.romhacking.net/hacks/5575/]Definitive Edition[/li]
-    [li][url=https://www.romhacking.net/hacks/5483/]Music Overhaul[/li]
-    [li][url=https://www.romhacking.net/hacks/5848/]Revenge of the Findesiecle Deluxe+[/li][/list][/li]
+    [li][url=https://www.romhacking.net/hacks/7086/]Recolor[/url]: Aprimora as paletas originais do jogo para tons mais escuros e menos saturados.[/li]
+    [li][url=https://www.romhacking.net/hacks/5575/]Definitive Edition[/url]: Combina vários aprimoramentos gerais menores, como alguns sprites, paletas e elementos de jogabilidade.[/li]
+    [li][url=https://www.romhacking.net/hacks/5483/]Music Overhaul[/url]: Troca todas as músicas originais por outras aprimoradas, seja deste ou de outros jogos.[/li]
+    [li][url=https://www.romhacking.net/hacks/5848/]Revenge of the Findesiecle Deluxe+[/url]: Hack que adiciona vários novos personagens jogáveis, como Julius Belmont do Castlevania Aria of Sorrow, John Morris e Eric Lecarde do Castlevania Bloodlines, etc.[/li][/list][/li]
 [/list]
 
 Nos meus testes, os hacks de aprimoramento acima funcionaram muito bem, e eu consegui até mesmo zerar o jogo com o Recolor combinado com a tradução. No entanto, isso pode não ser perfeito, e dependendo do patch, ocorrerem alguns problemas menores. O Revenge of the Findesiecle, por exemplo, apresenta uns bugs visuais menores nos menus, mas que felizmente não comprometem a jogatina.
