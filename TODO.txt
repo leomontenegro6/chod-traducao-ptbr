@@ -1,2 +1,1 @@
-- Pedir pro victoriemini fazer uma capa traduzida, igual foi pro CAOS e CDOS
-- Pedir pro Neko atualizar a splash, colocando denim e victoriemini na seção de agradecimentos
+- Criar patch addentum pro Revenge of the Findesiecle, pra corrigir os bugs gráficos ocasionados.
