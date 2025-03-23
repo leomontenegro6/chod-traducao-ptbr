@@ -112,15 +112,23 @@ Revisão: 100%
 # Imagens
 
 Versão Original:
+
 ![alt text](Screenshots/PNG/01.png) ![alt text](Screenshots/PNG/02.png) ![alt text](Screenshots/PNG/03.png)
+
 ![alt text](Screenshots/PNG/04.png) ![alt text](Screenshots/PNG/05.png) ![alt text](Screenshots/PNG/06.png)
+
 ![alt text](Screenshots/PNG/07.png) ![alt text](Screenshots/PNG/08.png) ![alt text](Screenshots/PNG/09.png)
+
 ![alt text](Screenshots/PNG/10.png) ![alt text](Screenshots/PNG/11.png) ![alt text](Screenshots/PNG/12.png)
 
 Versão Recolor:
+
 ![alt text](Screenshots/PNG/13.png) ![alt text](Screenshots/PNG/14.png) ![alt text](Screenshots/PNG/15.png)
+
 ![alt text](Screenshots/PNG/16.png) ![alt text](Screenshots/PNG/17.png) ![alt text](Screenshots/PNG/18.png)
+
 ![alt text](Screenshots/PNG/19.png) ![alt text](Screenshots/PNG/20.png) ![alt text](Screenshots/PNG/21.png)
+
 ![alt text](Screenshots/PNG/22.png) ![alt text](Screenshots/PNG/23.png) ![alt text](Screenshots/PNG/24.png)
 
 # Patch
