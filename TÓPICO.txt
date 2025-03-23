@@ -38,7 +38,7 @@ Ao adentrar no castelo, muitas tramas e surpresas lhes aguardam. Será Juste cap
 
 Comecei essa tradução logo após lançar a versão 1.0 do Aria of Sorrow que lancei no natal de 2006. Estava no canal da Trans-Center e eu planejava passar um tempo sem traduzir. Isso até que Anime_World chegou e propôs criar uma ferramenta em python para extrair/inserir textos de script do jogo. Era orientada a ponteiros, ou seja, extraia e inseria alterando-os frequentemente e de acordo, automatizando todo o trabalho e facilitando a vida do tradutor/romhacker.
 
-Quando ele havia terminado, era janeiro de 2007. Como Harmony of Dissonance era muito parecido com Aria of Sorrow, facilmente encontrei os alfabetos e os acentuei. E lembro-me que umas 3~4 semanas depois já havia traduzido todos os textos (com base [url=https://gamefaqs.gamespot.com/gba/554981-castlevania-harmony-of-dissonance/faqs/17572]nesse script japonês traduzido pra inglês[/url]), revisados ao meu ver e testados ingame. Estava totalmente funcional. Restava apenas alguém mais além de mim revisar os textos, pois seria bem melhor pra captar erros e sugerir tradução melhor a várias frases/termos. Quem se encarregou disso foi o Darkl0rd.
+Quando ele havia terminado, era janeiro de 2007. Como Harmony of Dissonance era muito parecido com Aria of Sorrow, facilmente encontrei os alfabetos e os acentuei. E lembro-me que umas 3~4 semanas depois já havia traduzido todos os textos (com base [url="https://gamefaqs.gamespot.com/gba/554981-castlevania-harmony-of-dissonance/faqs/17572"]nesse script japonês traduzido pra inglês[/url]), revisados ao meu ver e testados ingame. Estava totalmente funcional. Restava apenas alguém mais além de mim revisar os textos, pois seria bem melhor pra captar erros e sugerir tradução melhor a várias frases/termos. Quem se encarregou disso foi o Darkl0rd.
 
 Infelizmente, essa ferramenta que foi a base desse projeto já não está mais entre nós. O Anime perdeu o código fonte do programa, não sendo possível consertar uns bugs direto por ele. E um tempo depois disso, perdi um de meus HDs, e junto com ele os binários compilados do programa. Nem hospedado em outros locais está. Se o mesmo ainda tivesse vivo, com certeza eu postaria no fórum junto à tradução.
 
@@ -48,19 +48,22 @@ Isso resultou nas versões iniciais da tradução, lançadas lá em 2008. Saindo
 
 Além do Neko, também tive ajuda de outros novos colegas. Um deles foi o Breno, romhacker novo com grande habilidade em ASM que lançou várias traduções ótimas para GBA, e que criou uma nova ferramenta de dumper/inserter de textos em ARMIPS. Graças a ela, o processo de revisão foi bem mais rápido, prático, e também deu pra facilmente mover os textos pra outros locais da ROM. Outro deles foi o bMatSantos, que me ajudou a inserir uma nova splash-screen da tradução para creditar os envolvidos. Por fim, o denim, que me deu uma mão em uns ajustes na fonte VWF para melhorar a largura de alguns caracteres e a encontrar o tilemap dos créditos finais do jogo.
 
-Essa revisão também conta com a expansão da rom de 8mb para 16mb, seguido de ter todas as alterações textuais e gráficas movidas pro final da região dos 16mb da ROM. Isso foi motivado para aumentar a compatibilidade da tradução com diversos hacks recentes, como "Definitive Edition", "Recolor", "Music Overhaul", "Revenge of the Findesiecle", dentre outros. A grande maioria deles foi feita com [url=https://www.romhacking.net/utilities/1271/]DSVania Editor[/url], que por padrão usa o espaço livre situada no final da região dos 8mb, o que por vezes conflitava com as alterações da tradução. Com esse ajuste, a chance de acontecer conflitos diminui consideravelmente.
+Essa revisão também conta com a expansão da rom de 8mb para 16mb, seguido de ter todas as alterações textuais e gráficas movidas pro final da região dos 16mb da ROM. Isso foi motivado para aumentar a compatibilidade da tradução com diversos hacks recentes, como "Definitive Edition", "Recolor", "Music Overhaul", "Revenge of the Findesiecle", dentre outros. A grande maioria deles foi feita com [url="https://www.romhacking.net/utilities/1271/"]DSVania Editor[/url], que por padrão usa o espaço livre situada no final da região dos 8mb, o que por vezes conflitava com as alterações da tradução. Com esse ajuste, a chance de acontecer conflitos diminui consideravelmente.
 
 Esta revisão, de 2025, conta com as seguintes novidades:
 
 [list]
-  [li]Revisão de bestiários, itens e equipáveis, de modo a sincronizar termos com outras traduções.[/li]
-  [li]Correções textuais pós-reforma gramatical de 2009 (remoção de tremas e outras palavras acentuadas).[/li]
-  [li]Incluída splash-screen no começo do jogo.[/li]
-  [li]Tornada a tradução compatível com vários hacks de aprimoramento, tais como:[list]
-    [li][url=https://www.romhacking.net/hacks/7086/]Recolor[/url]: Aprimora as paletas originais do jogo para tons mais escuros e menos saturados.[/li]
-    [li][url=https://www.romhacking.net/hacks/5575/]Definitive Edition[/url]: Combina vários aprimoramentos gerais menores, como alguns sprites, paletas e elementos de jogabilidade.[/li]
-    [li][url=https://www.romhacking.net/hacks/5483/]Music Overhaul[/url]: Troca todas as músicas originais por outras aprimoradas, seja deste ou de outros jogos.[/li]
-    [li][url=https://www.romhacking.net/hacks/5848/]Revenge of the Findesiecle Deluxe+[/url]: Hack que adiciona vários novos personagens jogáveis, como Julius Belmont do Castlevania Aria of Sorrow, John Morris e Eric Lecarde do Castlevania Bloodlines, etc.[/li][/list][/li]
+[li]Revisão de bestiários, itens e equipáveis, de modo a sincronizar termos com outras traduções.[/li]
+[li]Correções textuais pós-reforma gramatical de 2009 (remoção de tremas e outras palavras acentuadas).[/li]
+[li]Incluída splash-screen no começo do jogo.[/li]
+[li]Tornada a tradução compatível com vários hacks de aprimoramento, tais como:
+[list]
+  [li][url="https://www.romhacking.net/hacks/7086/"]Recolor[/url]: Aprimora as paletas originais do jogo para tons mais escuros e menos saturados.[/li]
+  [li][url="https://www.romhacking.net/hacks/5575/"]Definitive Edition[/url]: Combina vários aprimoramentos gerais menores, como alguns sprites, paletas e elementos de jogabilidade.[/li]
+  [li][url="https://www.romhacking.net/hacks/5483/"]Music Overhaul[/url]: Troca todas as músicas originais por outras aprimoradas, seja deste ou de outros jogos.[/li]
+  [li][url="https://www.romhacking.net/hacks/5848/"]Revenge of the Findesiecle Deluxe+[/url]: Hack que adiciona vários novos personagens jogáveis, como Julius Belmont do Castlevania Aria of Sorrow, John Morris e Eric Lecarde do Castlevania Bloodlines, etc.[/li]
+[/list]
+[/li]
 [/list]
 
 Nos meus testes, os hacks de aprimoramento acima funcionaram muito bem, e eu consegui até mesmo zerar o jogo com o Recolor combinado com a tradução. No entanto, isso pode não ser perfeito, e dependendo do patch, ocorrerem alguns problemas menores. O Revenge of the Findesiecle, por exemplo, apresenta uns bugs visuais menores nos menus, mas que felizmente não comprometem a jogatina.
@@ -104,22 +107,24 @@ Com isso, finalizamos essa revisão da tradução antiga de 2008, após mais de 
 [li][b][url="https://www.romhacking.net/utilities/1583/"]Tile Molester 0.21[/url][/b] : Editor de tiles usado para edição dos gráficos do jogo.[/li]
 [/list]
 
+Para mais informações a nível de ferramentas, consulte o [url=https://github.com/leomontenegro6/chod-traducao-ptbr]repositório do Github[/url] do projeto.
+
 —————————————————–
 [b]Changelog[/b]
 —————————————————–
 
 [b]Versão 1.2[/b] - 22/03/25
- Terceiro lançamento. Versão Européia
- - Revisão de bestiários, itens e equipáveis, de modo a sincronizar termos com outras traduções
- - Correções textuais pós-reforma gramatical de 2009 (remoção de tremas e outras palavras acentuadas)
- - Incluída splash-screen no começo do jogo
- - Tornada a tradução compatível com vários hacks de aprimoramento
+Terceiro lançamento. Versão Européia
+- Revisão de bestiários, itens e equipáveis, de modo a sincronizar termos com outras traduções
+- Correções textuais pós-reforma gramatical de 2009 (remoção de tremas e outras palavras acentuadas)
+- Incluída splash-screen no começo do jogo
+- Tornada a tradução compatível com vários hacks de aprimoramento
 [b]Versão 1.1[/b] - 21/03/08
- Segundo lançamento. Versão Européia
- - Restante da revisão textual aplicada
- - Alguns gráficos melhorados graças a manuseio de OAMs
+Segundo lançamento. Versão Européia
+- Restante da revisão textual aplicada
+- Alguns gráficos melhorados graças a manuseio de OAMs
 [b]Versão 1.0[/b] - 31/01/08
- Primeiro lançamento. Versão Européia
+Primeiro lançamento. Versão Européia
 
 —————————————————–
 [b]Agradecimentos[/b]
@@ -168,6 +173,6 @@ Versão Recolor:
 [b][i]Patch[/i][/b]
 —————————————————–
 
-O patch de tradução está disponível na seção de releases desse repositório. Está em formato IPS, e vocês podem aplicá-los através de programas como [url=https://www.romhacking.net/utilities/1040/]Floating IPS[/url] ou similares.
+O patch de tradução está disponível na seção de releases desse repositório. Está em formato IPS, e vocês podem aplicá-los através de programas como [url="https://www.romhacking.net/utilities/1040/"]Floating IPS[/url] ou similares.
 
 Esta tradução pode ser aplicada na ROM "Castlevania - Harmony of Dissonance (E) [!].gba", com CRC32 521B3091, na ROM "Castlevania - Harmony of Dissonance (E) [h1C].gba", com CRC32 6D14E739, na ROM "Castlevania - Harmony of Dissonance (E) [hIR00].gba", com CRC32 E1E8823A, ou na ROM "Castlevania - Harmony of Dissonance (E) [hI].gba", com CRC32 6EFB2B6E (todas com código ACHP).Também pode ser aplicada sem problemas na ROM "Castlevania - Harmony of Dissonance (U) [!].gba" (código ACHE), com CRC32 88C1B562, apesar de não ser a versão originalmente utilizada.
